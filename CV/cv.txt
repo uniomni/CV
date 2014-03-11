@@ -1,0 +1,143 @@
+Curriculum Vitae - Ole Moller Nielsen
+=====================================
+
+PERSONAL ADDRESS
+  133 Limestone Avenue 
+  Braddon, ACT 2612 
+  Canberra, Australia 
+  +61 (0)2 6262 6487  
+
+WORK ADDRESS
+  Computer Sciences Laboratory 
+  Research School of Information Science and Engineering 
+  Australian National University 
+  Canberra, ACT 0200
+  Australia 
+  +61 (0)2 6279 8627 (direct)
+  +61 (0)2 6279 8645 (fax)
+  +61 (0)2 6279 8644 (secr.) 
+  Email: Ole.Nielsen@anu.edu.au 
+  URL: www.imm.dtu.dk/~omni
+ 
+EDUCATION
+  Doctor of Philosophy (May 1998) 
+  Technical University of Denmark 
+  Department of Mathematical Modelling 
+  Thesis: ``Wavelets in Scientific Computing''
+  Available at www.imm.dtu.dk/~omni/thesis.html
+  Grade Point Average: 11.0/13 
+
+  Master of Science (November 1993) 
+  Roskilde University, Denmark
+  Department of Computer Science 
+  Thesis: ``DISCO -- DIScrete and COntinuous simulation''
+  Grade Point Average: 11.4/13 
+
+  Batchelor of Science (June 1990) 
+  Roskilde University, Denmark
+  Department of Mathematics 
+  Grade Point Average: 11.5/13 
+
+
+CURRENT OBJECTIVE
+  To involve myself in the development of  
+  technical or scientific software aimed at
+  concrete applications and motivated by actual 
+  demands from society. 
+
+
+SELECTED TECHNICAL SKILLS
+ - Programming languages:       C++, Fortran 90, Matlab, Delphi
+ - Distributed computing tools: MPI, DCOM, Fujitsu VP-Fortran 
+ - Operating systems:           UNIX, Windows NT, Linux
+ - Text processing:             Emacs, LaTeX, MS-Word
+
+
+GENERAL EXPERTISE
+ - Mathematical modelling and simulation
+ - Parallel and distributed computing
+ - Wavelets and filter banks
+ - Object oriented software development
+
+
+SOME PERSONAL QUALITIES
+ - Good communication skills
+ - Easy going and open minded
+ - Loyal team player
+
+
+PROFESSIONAL HISTORY
+ - Nov 1998 - present: 
+     Postdoctoral Fellow (Post Doc) 
+     Computer Sciences Laboratory, RSISE, Australian National University. 
+     Research in Wavelets and Data Mining.
+
+ - Mar 1998 - Oct 1998: 
+     Scientific Computing Consultant 
+     UNI-C, Danish Computing Centre for Research and Education.
+     Design and development of parallel image analysis algorithm.
+
+
+SELECTED PUBLICATIONS
+  Parallel Performance of Fast Wavelet Transforms
+  Ole Moller Nielsen and Markus Hegland, 
+  Submitted to International Journal of High Speed Computing, April 1999
+
+  Wavelet Analysis for Power System Transients 
+  Anthony Wayne Galli and Ole Moller Nielsen, 
+  IEEE Computer Applications in Power, Volume 12, Number 1, January 1999.
+
+  A Scalable Parallel 2D Wavelet Transform Algorithm
+  Ole Moller Nielsen and Markus Hegland, Technical report, TR-CS-97-21, 
+  Australian National University, 1997.
+
+  Wavelets and the Nonlinear Schrodinger Equation 
+  Vincent A. Barker and Ole Moller Nielsen.
+  Proceedings at Sixth International Colloquium on 
+  Numerical Analysis and Computer Science with Applications,
+  Plovdiv, Bulgaria, 1997.
+
+  Vector-Parallel Fast Wavelet Transforms 
+  Ole Moller Nielsen, Gavin Mercer, and Markus Hegland. 
+  Proceedings at Parallel Computing Workshop,
+  Australian National University, Canberra, Australia, 1997.
+
+  Fast 2D Wavelet Transform of Circulant Matrices 
+  Ole Moller Nielsen, Technical report, IMM-REP-1997-8, 
+  Technical University of Denmark, 1997
+
+
+REFERENCES
+  Dr Markus Hegland, (Markus.Hegland@anu.edu.au) 
+  Computer Sciences Laboratory, RSISE  
+  Australian National University  
+  Canberra ACT 0200, Australia  
+  Phone: +61 2 6279 8648  
+  Fax:   +61 2 6279 8645/8651  
+
+  Dr Stephen Roberts, (Stephen.Roberts@anu.edu.au) 
+  Computer Sciences Laboratory, RSISE  
+  Australian National University  
+  Canberra ACT 0200, Australia  
+  Phone: +61 2 6279 8634  
+  Fax:   +61 2 6279 8645  
+
+  Senior Consultant Jorgen Moth, (Jorgen.Moth@uni-c.dk) 
+  UNI-C (The Danish Super Computing Centre) 
+  2800 Lyngby, Denmark  
+  Phone: +45 35 87 88 89  
+  Fax:   +45 35 87 89 90  
+
+  Professor Per Christian Hansen, (pch@imm.dtu.dk) 
+  Department of Mathematical Modelling  
+  Technical University of Denmark, Building 305  
+  2800 Lyngby, Denmark  
+  Phone: +45 4525 3097  
+  Fax:   +45 4593 2373 
+
+  Dr. Lionel Watkins, (l.watkins@auckland.ac.nz) 
+  Department of Physics 
+  University of Auckland 
+  Auckland, New Zealand 
+  Phone: +64 9 373 7599 - 8878 
+  Fax:   +64 9 373 7445 

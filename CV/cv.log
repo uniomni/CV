@@ -1,0 +1,172 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.11.3)  3 NOV 2012 20:59
+entering extended mode
+ %&-line parsing enabled.
+**cv
+(./cv.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+) (./cv.aux)
+\openout1 = `cv.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 8.
+
+(/usr/share/texmf-texlive/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 10.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 27.
+
+(/usr/share/texmf-texlive/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 43.
+
+(/usr/share/texmf-texlive/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 44.
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+] (./cv_exp.sub
+Overfull \hbox (2.79199pt too wide) in paragraph at lines 6--11
+\OT1/ptm/m/n/12 Surana-ree Uni-ver-sity of Tech-nol-ogy, Nakhorn Ratchasima, Th
+ai-land. Teach-
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 30.
+[2])
+Overfull \hbox (0.77464pt too wide) in paragraph at lines 111--113
+\OT1/ptm/m/n/12 High di-men-sional sur-face fit-ting, Ma-chine learn-ing, Pe-na
+lised Least-squares
+ []
+
+[3]
+Overfull \hbox (0.32007pt too wide) in paragraph at lines 146--148
+[]\OT1/ptm/m/n/12 Influencing my work-place to take up mod-ern soft-ware de-vel
+-op-ment method-
+ []
+
+
+Overfull \hbox (39.66661pt too wide) in paragraph at lines 148--152
+\OT1/ptm/m/n/12 datamin-ing and mod-elling). Py-Par is avail-able at http://dat
+amining.anu.edu.au/pypar 
+ []
+
+[4]
+Overfull \hbox (5.38277pt too wide) in paragraph at lines 188--198
+\OT1/ptm/m/n/12 con-fer-ences in-clud-ing In-ter-na-tional Dis-as-ter Re-duc-ti
+on Con-fer-ence (Switzer-
+ []
+
+
+Overfull \hbox (7.15845pt too wide) in paragraph at lines 188--198
+\OT1/ptm/m/n/12 forna 2001), Aus-tralian Epi-demi-o-log-i-cal As-so-ci-a-tion (
+Syd-ney); NSW Health;
+ []
+
+
+Overfull \hbox (1.85484pt too wide) in paragraph at lines 188--198
+\OT1/ptm/m/n/12 IBM York-town heights (USA); St Cather-ine's Col-lege, Ox-ford 
+(UK); Umeaa
+ []
+
+[5] (./cv_publ.sub
+Overfull \hbox (18.78687pt too wide) in paragraph at lines 92--95
+[]\OT1/ptm/m/it/12 Multidimensional Smooth-ing Us-ing Hy-per-bolic In-ter-po-la
+-tory Wavelets\OT1/ptm/m/n/12 . Markus
+ []
+
+[6]) [7]
+Underfull \hbox (badness 10000) in paragraph at lines 227--232
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--252
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--261
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--268
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--283
+
+ []
+
+[8] (./cv.aux) ) 
+Here is how much of TeX's memory you used:
+ 345 strings out of 495061
+ 4078 string characters out of 1182621
+ 51193 words of memory out of 3000000
+ 3567 multiletter control sequences out of 15000+50000
+ 19279 words of font info for 41 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 22i,4n,19p,384b,234s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/sha
+re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-te
+xlive/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texmf-texlive/fonts/type1/
+urw/times/utmb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmr8a.pfb
+></usr/share/texmf-texlive/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-t
+exlive/fonts/type1/urw/times/utmri8a.pfb>
+Output written on cv.pdf (8 pages, 90988 bytes).
+PDF statistics:
+ 54 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

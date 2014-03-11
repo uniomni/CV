@@ -1,0 +1,3 @@
+Biography:
+
+Ole Nielsen is a graduate from Roskilde University Centre, Denmark, with a double Master’s degree in Mathematics and Computer Science. He received his PhD in scientific computing at the Institute for Mathematical Modelling, Technical University of Denmark in 1998. After a short stint as a consultant in parallel computing, he joined the ANU Data Mining group where he researched multilevel and wavelet techniques for predictive modelling, large scale data mining and bio-informatics. Ole took up a position with the Australian government as computational scientist at Geoscience Australia in March 2003 where he is currently responsible for the development of a hydrodynamic modelling capability and its applications in risk modelling and emergency management.

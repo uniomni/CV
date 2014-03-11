@@ -1,0 +1,32 @@
+Prior to commencement:
+------------------------
+
+Physical
+  - Office, where?	
+  - High end PC  - Microsoft Natural Keyboard Pro Win9x
+  (share Linux PC)
+		
+	
+IT
+
+  - Windows account	
+  - UNIX account
+  - Perlite disk access
+  
+  
+Admin
+
+  Security Vetting 
+  Pay, Super
+  Libray
+  Health check 
+  Keycard
+  
+
+Projects
+
+  Triangulation front-end
+  Help with Beowulf and linux
+  WEB presentation of results (with Ole)
+  
+  

@@ -1,0 +1,78 @@
+From: Nielsen Ole
+Sent: Tuesday, 3 May 2005 11:01 AM
+To: 'Stephen Roberts'
+Cc: Gray Duncan; Hayne Matt
+Subject: TRIM: The Future
+
+TRIM Dataset: AG
+TRIM Record Number: D2005-33015
+TRIM Record URI: 355650
+
+Hi Stephen
+
+Thanks for the updates.
+The new realtime visualiser is far better than my early hack and should probably supersede it. I was also pleased to see the progress made on the Merimbula lakes using different friction values in different regions. Perhaps those files should go into the 'validation' directory rather than 'steve'? Looking at the spikes, though, I reckon a larger value of alpha is called for.
+
+
+How's the parallelisation work going? I'd be happy to over any time if needed.
+
+
+Our plans for next year are roughly
+
+1: Make a nice visual (stereographic) showcase as an ANUSF contract.
+2: Conduct two more tsunami inundation studies.
+3: Bring the ANUGA software to a conclusion including the interface and remaining numerical issues.
+4: Employ a technical writer to develop a user guide + technical manual in collaboration with us and you.
+5: Get the wheels in motion for the official OSS release. In fact, I have taken contact with AGIMO for advice.
+6: Conduct sensitivity studies regarding the influence and resolution of bathymetries. Maybe Aliki would be interested? 
+7: Continue the validation process, maybe in collaboration with the CFD group at CSIRO and SMEC. I imagine MSI would play a major role in that regard.
+8: Take steps towards the ability to use ANUGA in a probabilistic framework.
+
+The budget isn't done yet but I expect significant funding for these activities but some of them may fall under an MOU as we talked about. I am trying to find what an MOU looks like for a start.
+
+Please have a think about what levels of involvement you'd like, so that we can get an idea about what kind of draft some con
+
+Duncan, Matt and I will want to chat much more about all this later on, but is just to keep you informed.
+
+ 
+Enough dvorak typing for now
+Talk to you later
+
+Cheers
+Ole
+
+
+************************ Disclaimer ****************
+Please accept my apologies for typing mistakes, use of abbreviations and terseness: I am learning to touch-type using the 'dvorak' keyboard layout, so typing is currently painstakingly slow. 
+ 
+---------------------------------------------------------------------
+Dr. Ole Nielsen                           |  Computational Scientist    
+Geospatial and Earth Monitoring Division  |  E: Ole.Nielsen@ga.gov.au
+Geoscience Australia                      |  P: +61 2 6249 9048
+Canberra, Australia                       |  F: +61 2 6249 9986 
+---------------------------------------------------------------------
+
+-----Original Message-----
+From: Stephen Roberts [mailto:stephen.roberts@anu.edu.au] 
+Sent: Monday, 2 May 2005 9:44 PM
+To: Nielsen Ole; Gray Duncan; Zoppou Christopher
+Subject: vpython visualisation
+
+
+Slight change to the vpython visualisation.
+
+The view_tsh.py and realtime_visualisation_new.py now scales the stage 
+between [-0.5, 0.5] by default.
+
+Cheers
+Steve
+
+-- 
++--------------------------------------------------------------------+
+| Steve Roberts                 | Work:  (61)(2) 6125 4445           |
+| Department of Mathematics     | Fax:   (61)(2) 6125 4984           |
+| Australian National University| http://www.maths.anu.edu.au/~steve |
+| PAP Moran Building            | mailto:stephen.roberts@anu.edu.au  |
+| Canberra ACT 0200, AUSTRALIA  | ANU CRICOS # 00120C                |
++--------------------------------------------------------------------+
+

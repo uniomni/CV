@@ -1,0 +1,84 @@
+From: Nielsen Ole
+Sent: Tuesday, 3 May 2005 3:50 PM
+To: 'Stephen Roberts'
+Cc: Gray Duncan
+Subject: TRIM: RE: The Future
+
+TRIM Dataset: AG
+TRIM Record Number: D2005-33017
+TRIM Record URI: 355652
+
+Hello Stephen
+
+
+>I havesped it up some more, but I lazily used weave. So scipy is
+>necessary. 
+>Probably should produce a _ext.c version, but later.
+
+Yes - later. It worked straight away on my machine, though!
+
+
+Thanks for the update on Merimbula. I am glad that it continues.
+
+>I will need your help soon!
+
+Any time
+
+> We (Linda, Matt) have discussed the problem
+>and distributed some tasks (pun intended).
+
+Great
+
+> I'm working on the
+>communication between domains on different "cells" (processors). We will 
+>be using the concept of full and ghost volumes. I hope to get a good 
+>amount of time on friday to throw together a first pass at setting up a 
+>SubDomain class which has the concept of ghosts and ownership of ghosts. 
+
+Looking forward to hear all abot it. Perhaps some time next week?
+
+>By the way, I intend to setup a periodic boundary using this idea. So
+>the work is progressing.
+
+I like that. There is still an old 'Connective_boundary' in generic_boundary_conditions which worked with pyvolution Mark II. I used it at one stage for periodic boundaries. Using the general Subdomain class for this will be much better and probably also serve as a test of the machinery. 
+
+ 
+>>3: Bring the ANUGA software to a conclusion including the interface 
+>>and remaining numerical issues.
+>What does that mean, conclusion?
+
+I guess it means whatever the development team decides :-) Duncan and I have identified an awful lot of debris left behind from the tsunami work: Many good ideas need to be properly implemented, FIXME's need to be addressed, there are still a few issues with the interface and the numerics. It'd be nice to get enough done to have a first version stable enough to justify the documentation and user guide (planned for Feb-May 2006). The thing will continue to evolve, so I am adamant that the documentation and users guide are live (and even semi-automated) documents as well. 
+
+
+>6: Conduct sensitivity studies regarding the influence and resolution 
+>of bathymetries. Maybe Aliki would be interested?
+>
+Maybe, can I talk to her.
+
+Yes please
+
+What amount of time?
+
+We'll probably get $6000. 
+
+> Description of the task?
+
+We'd have to scope that, but one question that needs to be addressed is what resolution bathymetries need to be collected at. Of this depends on the problem, but we should do what we can. In addition, It'd be good to be able to simulate how a tsunami slows down and increases its amplitude as a function of the bathymetry. Finally, it'd be relevant to know how sensitive the model is to perturbations in bathymetries. 
+Do you think some of this would be doable?
+
+
+>8: Take steps towards the ability to use ANUGA in a probabilistic 
+>framework.
+
+Not exactly sure what this means. 
+Me neither :-)....
+but we are being asked to think about how we could capture uncertainties in the parameters with a view of modelling impacts as probability density functions.
+
+>Would it be similar to the sensitivity
+>studies in 6?
+I imagine it would follow on from 6
+
+
+Task to you later
+Ole
+

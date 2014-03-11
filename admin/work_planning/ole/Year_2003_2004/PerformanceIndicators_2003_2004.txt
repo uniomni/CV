@@ -1,0 +1,170 @@
+-	Develop interface to PDE solver. 
+PI: Integration of PDE Solver, boundary conditions and forcing functions into suitable framework.
+-	Investigate and develop suitable visualisations for hazard models. 
+PI: Provision of an outline of potential directions, frameworks and platforms.
+-	Participate in and supervise the development of mesh generator. 
+PI: Successful completion of mesh generator, integration and trial.
+** Gave feedback presentation from ICIAM2003 about visualisation 
+   state-of-the-art: 25 Aug 2003
+** Developed modular and novel architecture for flexible selection of 
+PDE Solver, boundary conditions, forcing functions, visualisation etc for
+any given 2D topology.    
+** Initiated and supervised ANU contract for developing a suitable
+viz/animation tool. (May)
+
+
+Develop web based platform for national risk map visualisation.
+-	Development and coordination of working group.
+-	Familiarisation with existing in-house application
+-	Contribute to specifications and design 
+-	Contribute to code development
+-	Oversee development process
+PI: Implementation of a web based application suitable for visualisation of static risk maps. 
+ 
+Promote the corporate Beowulf cluster.
+-	Provide strategic assistance to IT in building corporate Beowulf cluster. 
+-	Assist IT in recruitment of Beowulf administrator if required.
+-	Ensure code gets parallelised where possible.
+-	Promote migration of corporate codes to parallel cluster.
+PI: Successful support and feedback from IT. 
+
+** Attended Terrawulf launch at School of Earth Sciences, ANU 12 August 2003
+** Wrote letter of recommendations to IT together with Phil, Duncan, Chris, Ed.
+** Reviewed parallelisation of DFA, Intrepid software 1-2 Sep 2003
+** Wrote letter with software requirements and proposed tests of the beowulf
+for Phil Ryan.
+** !!! Formed and lead usre's group (?) 
+** !!! Lead testing and initial experiments with beowulf cluster
+
+
+Provide code/software support for RAMP activities on a needs basis. In particular,
+contribute to the decision tree study of perceived social vulnerability.
+PI: Positive feedback from relevant RAMP staff. 	
+** XunGuo - manipulation of files and spreadsheets
+** Phil Cummins:.......
+** Xunguo, Anita, Duncan, Trevor, Augusto, David, Spiro - GeoMag
+
+
+Key Performance Area 2: Leadership
+-	strategic perspective and contribution
+-	leadership in specialist area
+-	leadership of people
+
+
+Provide leadership and implementation of sound software development practices within the group and division.
+-	Introduce and promote revision control 
+-	Promote testing, documentation, validation
+-	Promote use of open source tools
+-	Provide advice and support on software development for the division.
+PI: Staff awareness of practices.
+
+Take intellectual and scientific leadership towards 
+-	An organisational approach to high performance computing.
+-	Coordination of the development of a web based visualisation platform.
+-	Helping integrate the use of numerical modelling for hazard and risk analysis 
+towards the strategic goals of RAMP.
+PI: Help group meeting yearly deliverables.
+PI: Support of project and group leaders.
+
+** Maintained local linux box and cvs repository
+
+
+Provide Expertise in the area of Software Engineering.
+-	Providing advice for both RAMP and CIP projects
+-	Mentoring staff under my supervision.
+PI: Effective communication with group leader.
+PI: Feedback from staff under my supervision
+	
+** Assisted staff members with software problems: XunGuo (manipulations of spreadsheet data), Phil Cummins (Cygwin, 
+compilation of C-extensions across platforms, etc etc), Geomag grp (wavelets), Spiro, Trevor Dhu 	
+
+
+Key Performance Area 3: Management
+"	managing self
+"	managing others
+"	management of project/work area/activity
+"	communication, liaison, negotiation and influencing skills
+
+
+Tasks/activities, expected outputs /results & dates	Self assessment at end of cycle
+Supervision and professional development of junior software engineers.
+PI: Development and revision of agreed PA. 
+
+** Continually interacted with Duncan Gray to ensure his effectiveness and job satisfaction.
+
+
+Manage shared computing resources (revision control system, Linux environment and relations to IT).
+PI: Positive feedback from group and division.
+
+** Organised access to external CVS repository at the ANU.
+
+** Managed common CVS repository and promoted it to  colleagues, 
+e.g. Duncan, Anita, Chris, Spiro, Trevor Dhu.
+
+Manage the recruitment process for new Numerical Modeller.
+PI: Identification and recruitment of suitable candidate.
+
+** Initiated process then passed it on to Duncan.
+
+
+
+Actively participate in the development of strategic directions for 
+computational program within RAMP.
+PI: Acceptance of approach by project manager and group leader.
+
+
+
+Key Performance Area 4:Client Interaction
+"	identifying client needs
+"	meeting client needs
+"	developing new ventures/projects/products
+
+Tasks/activities, expected outputs /results & dates	Self assessment at end of cycle
+Provide maximum support to associate chief of M&D and RAMP leader in developing and maintaining interagency relations with amongst others: DOTARS, BoM, Local Governments and tertiary institutions.
+PI: Level and effectiveness of interagency cooperation.
+
+High Performance Computing advice to stakeholders and collaborators (e.g. Intrepid Geophysics).
+
+RRG on a needs basis.	
+
+
+
+Key Performance Area 5: Corporate Contribution
+"	corporate awareness
+"	involvement in GA/ITR/APS/professional arena activities
+"	sharing expertise
+"	Corporate information management
+
+Tasks/activities, expected outputs /results & dates	Self assessment at end of cycle
+Participate in the Divisions High Performance Computing initiative and liaise with IT in building corporate Beowulf.
+PI: Support from IT and senior staff involved (e.g. Lesley Wyborne or Chris Pigram).
+
+Provide software advice to division.
+PI: Feedback from project and group leaders.
+
+** Talked at EQ seminar 28/8/3: Wavelets and seismic visualisations.
+
+
+Contribution of RISK assessment visualisation tools to the RAMP Web.
+PI: Development and application of tools on time.
+PI: Successful review of tools.
+
+Contribution to corporate educational facility and 
+media presentations relations.
+PI: Positive feedback by GA managers and staff.
+
+** Channel seven filmed my seismic visualisation 12/8/3
+** SBS on early Feb 2004
+** Monitor and visualisation in media room, foyer, education center (Leharne)	
+** Ensured that staff at xxx are aware of this, 
+has access to it and can run the programs.	
+** Collected feedback from staff and implemented suggestions.
+
+
+** Participated in writing a succesful proposal for automatic discrimination
+of signals in hydro-acoustic data (with Spiro Spilioppulus, Trevor Dhu and Dave Jepsen). 
+
+
+
+Lead writing of AusGeo News article (June)
+Participated in Bewould RFT evaluation panel (May June)

@@ -1,0 +1,333 @@
+	
+	
+June
+
+1 9:30-16:30 TRMA meeting+minutes, Linux business cases, PUG, adm
+-
+4 10:00-17:30 PUG, info for Matt, Amy, sysadm, create_distribution
+5 9:30-15:15 Rainfall model, David R, Amex + GE course travel, bug ticket:165
+6 9:30-18:00 Planning, Jane, ERMapper probl w Shark B., Will Power, ticket:165
+7 9:00-18:00 Nariman, work planning, DEMs, sysadm, Miriam, planning  
+8 10:30-16:30 Linux support discuss, Reconnected TRIM outlook, AOGS adm
+- Loong weekend
+13 9:00-18:00 Amy workplan, Tornado, Nick, Judy Huxl, Ian Odonnel, adm
+14 9:45-18:15 GE + AOGS travel, shark bay, Miriam, Trev+Jane, Amy+Gordon
+15 9:30-17:30 Onslow results + KML data, Trev, Colin Wizengarb, prep EA talk
+-
+18 9:45-24:00 Prep talk, adm, EA talk Sydney
+19 9:00-14:30 Discussed Onslow results, TRAC Ticket 
+20 9:30-18:30 Looked into computing runup from sww, Started Shark Bay, runup 
+21 9:30-17:30 Shark Bay, Jane (science and planning), runup done, Jakeman rep
+22 GE course Melbourne
+-
+25 9:30-17:45 Trv, Kriton cnf, Dunc (starttime), CIPMA, GEMD brf, AOGS, shark
+26 10:00-18:15 Georef, shark bay, pypar+numpy, Mauritz vdvlugt, Hydro08 abstr 
+27 10:00-17:00 APAC grid, shark bay, Rosh, Duncan, Nick, Jane
+28 9:30-18:00 APAC grid, shark bay, parallel fit_pts (w Dunc), adm, pypar
+29 9:30-18:00 Emil Okal, T. Dhu, fedbck to EMA, Shark Bay, alex+kristy farewell
+-
+
+	
+May
+
+1 8:30-12:30 Barry, SVN problem, tornado/LACIE problem, Nick
+2 9:00-19:30 Storage estimates, IDC paper, SPOT TRG, Geostore launch, Barry
+3 9:00-19:00 DFAT&Thai journalist, Rebecca IT, ANU svn down, hydrographs
+4 9:00-18:00 TRMA meeting, IT stuff, Google Earth talks
+-
+7 9:00-19:00 Bruce Harper, Rudy van Drie (ph), find SVN talk.
+8 9:30-19:00 Tsunami web, IMP meeting, ANUGA source trm, Lacie rescue
+9 9:30-19:00 Rudy van Drie and Ted Rigby
+10 9:00-18:00 Lacie rescue, Volcanoes in kml, EDM studio contract, Schneider
+11 8:30-17:15 TRMA meet, release doc, minutes, volcanoes, Steve Lloyd, BoM 
+-
+14 9:30-19:00 Dvorak keyb, Steve Lloyd (pug), ANU (svn), Darran, limittest
+15 8:15-17:15 limittest, BoM science meeting, svn live again
+16 9:45-17:00 EDM contr, oss survey, Kent Lindquist, Gordon Hall, Jim, Rudy
+17 9:30-18:00 SW pac scope, Debian order, Rudy vd, ex4edm, Bom min., Kent L.
+18 9:00-16:30 TRMA meeting, Trv, Rudy, Alex - shark bay, profiling!   
+-
+21 10:00-18:30 New get_vertex_values, management
+22 9:00-18:00 edm managem, IT linux, nautilus backup, invertd triang struct
+23 9:00-18:00 invertd triang struct, Brassil lunch, Debian install
+24 10:00-17:30 NHIP seminar, plann for Trev Levengt, Trouble shoot w Nick
+25 9:30-16:30 TRMA meet, Dunc, MChilcott, release, Web dev, Budget, release
+- long weekend
+29 9:30-18:30 Adm, NHIP meeting, Prep 3D for tomorrow, Steve Roberts
+30 9:15-18:30 T. Leverington, trouble shooting, Linux meeting, ADFA talk
+31 9:30-18:30 ADFA talk, SW Pac tsunami report review, T Jones, Jane, PUG
+
+	
+April
+
+2 9:15-18:00 Rosh, NSW talk (Jane), Amy, Saman prep
+3 9:00-18:15 GAV meeting,  Andrew Gissing/Hanslow visit, Rosh convergence
+4 8:30-12:00 Oku w new slope limiter, solit. wavs, Hinwood (Mark, Ken, Duncan)
+5 8:30-16:30 Jane, Mark/Ken, Heng Xu, Pia, con, ITEM talk
+- Easter break
+13 8:15-17:00 Emails, Nick (timestepping), Dennis brief
+-
+16 8:30-19:00 Images for Barry, Jane, SPOT TRG, ITEM dry run (Jane)
+17 9:45-19:00 Troubleshooting (Nick), Saman, Google Earth script
+18 8:45-18:30 Google Earth, svn w Nick, found caching anomaly, GE to QLD
+19 9:45-17:45 Nick, Saman prj, Trevor, Amy, Tornado problems
+20 9:00-18:00 TRMA meeting, tornado quibbles, Pia, nick, duncan
+-
+23 10:15-17:30 pypar, SOP, grad prj (Laura), planning, Darran
+24 9:30-17:00 verbose test, Dvorak, Saman, Hinwood, Michael Morse
+- ANZAC break
+30 9:00-19:30 Grad WA briefing, geoessentials, tornado, New viewer planning
+	
+	
+March
+
+Leave
+14 10:00-18:30 Meetings with people, emails, planning
+15  9:45-17:00 Meetings, NHIP talk, underspent proposal
+16  9:00-16:00 ISTB meeting (REX)
+- long weekend
+20 10:00-18:30 Project planning
+21 9:30-18:30 Project planning + Miriam's workplan
+22 9:30-17:30 Planning, Field_boundary, ITEM slides, IT, Phil 
+23 11:00-18:30 Tilixia, ASI Beowulf sign off, Jane+Trev
+-
+26 8:45-16:00 URS->ANUGA Meeting, Risk framework, Team briefing
+27 10:30-18:00 Auto valid., AMY travel memo, New Scientist interv, SVN memo
+28 9:00-18:45 Richard, SVN bid + history, F. Brass talk, auto valid, Kristy
+29 9:30-18:30 Graduate trip, NHIP AL, Anuga caching + auto validaton, abstracts
+30 9:00-17:30 Coord meeting, Online, NHIP project arvo, Amy
+-
+	
+February
+
+1 9:15-17:00 SVN for URS, Matt, meeting at ANU
+2 9:15-17:30 Tsunami meeting, Interview, Macca lunch, flux 
+-
+5 9:30-19:00 New flux limiter, Plannning, Amy, flux, adm	
+6 9:45-18:45 Testing of new flux limiter, Amy PPR, new balanced slope limiter
+7 9:30-19:00 TRIMP Wk plan, New limitrs OK, AOGS 2, Jane PPR, OSS srvy, Beowulf
+8 11:00-18:00 Flood program, James Goff and Roy Walters, Steve Roberts
+9 9:00-18:00 TRAMP meeting, Alex, Matt, Barry prep, Nick & Dunc debug, mach pr
+- 
+12 9:00-16:30 Planning and prep.
+13 9:30-16:00 BMRC talk, meetings, PPRs, PPs...
+14 9:45-18:45 BMRC+FESA talks, PPs, ANUGA (Brad's ex)+release, BMRC dry run 
+15 6:00-19:30 BMRC (all day)
+16 9:30-17:30 Gordon Hall (FESA), Miriam, PUG meeting, adm
+-
+LEAVE
+
+
+	
+January
+
+8 9:00-17:30 L5 position sign-off, plan linux.conf
+9 - PCS
+10 9:30-18:30 MvReq, PPRs, bugs, David R, Stuart M, Adrian Wavelets, Jane 
+11 10:15-15:45 L5 referees, Brad Weir, version_info, Trevor 
+12 9:00-17:30 Meeting w David, linuxconf talk, Planning Dunc+Jane
+-
+15 Linuxconf
+16 9:00-18:30 Jane planning (2.5h), Beowulf, Acquittal, Position 12711  
+17 11:00-19:15 Frantic day, org Titov visit and much more adm
+18 - REC
+19 - REC
+-
+22 9:15-19:30 Titov visit + dinner
+23 9:45-17:45 Meetings, looked at limiters, IT+IM meeting
+24 9:45-18:15 Stuart Girvan meeting, Jim Peacock talk, Beowulf (Leo)
+25 9:15-17:30 Interviews (Girvan), Jakeman, Beowulf (Leo)      
+26 - Australia Day
+-
+29 9:45-18:15 Jim Peacock Talk,  Tsunami Risk Planning, Trevor, PUG call
+30 9:30-19:15 Jim Peacock dryrun, Balanced limiters
+31 9:45-16:00 Max speed diagnostics, Jim Peacock, limiters
+
+	
+	
+December
+1             SEEGrid	
+-
+4 10:00-19:00 Craig (Bluenet), team management, Pos 16822 adm, PUG
+5 9:30-17:00 Phonecalls, DGAL talk prep, Beowulf planning
+6 9:45-16:30 DGAL prep, Ozestuaries/iCAM meeting, DGAL - Dryrun
+7 9:15-18:00 ATWS/RAMP, prep talk, SEEGRID debrief 
+8 9:30-16:00 FESA meeting, prep talk, GEMD XMAS pty
+-
+11 9:30-17:30 SPOT DEM meeting, DGAL Dryrun, FESA debrief
+12 9:30-17:30 DGAL prep, Gordon Hall, DGAL Dryrun
+13 9:30-18:00 DGAL, ATWS/EMA FAQ, abstracts
+14 9:30-18:45 Bathy SPOT, ASI, Recruitment, adm, stuff
+15 9:30-15:30 AGM
+-
+18 8:45-13:30 Referee's, SourceForge
+19 8:15-18:30 Duncan, Code review (Raj), John Jakeman, runcairns, Recruitment
+20 9:15-17:15 Duncan design of blocking, sourceforge, Nexis, ATWS drinks
+21 9:15-13:30 Debugging, phonecalls, RRG lunch
+22 8:15-16:15 Recruitment, Cleanup, Linux conf paper
+- Xmas break
+	
+	
+November
+
+1 9:30-18:00 Coding w Nick, Bridget, ASI docs, 3D mtng, L5 ad, okushiri
+2 9:30-18:00 ATWS/RAMP meeting, Ken+Dale talks, Bridget & CART, okushiri
+3 9:30-18:30 FESA meeting, L5 ad, Post NSW slope survey planning, okushiri
+-
+6 9:15-18:00 GNS MoU, Alex, Okushiri, Installation, Discuss parallel
+7 8:45-18:45 Work on omission of ghostlayers, Kriton, Nick, Jane, Saman ltr
+8 9:15-17:45 Duncan, Pigram (Beow.), Code cleanup, Nick (optimal alpha)   
+9 9:00-17:00 Code clean, John Lang, geoplus, ltr to Saman, Rosh
+10 9:00-16:00 FESA meeting, Beowulf, Tom Baldock
+-
+13 9:30-17:00 Code review form, Tender Eval Committee at AGIMO
+14 9:30-16:30 Team, ltr to Saman, ANUGA distrib, Code review form
+15 7:45-17:30 Planning planning planning, RAMP meeting, GNS mou 
+16 9:30-18:00 ANU meeting, Anita's farewell, Rod Weber, Team
+17 9:00-18:30 SPOT meeting, ASI, tcsh, Stuart Ross, GNS, Jane
+-
+20 9:15-18:00 adm, SPOT meeting
+21 8:45-18:15 ANUGA manual, talk, Rosh, adm, slides for Chris P
+22 9:30-16:00 Earth Dynamics, ANU
+23 9:30-18:00 Earth Dynamics, ANU - my presentation 
+24 9:30-17:45 Adm, AEES conference presentation, ICT profile
+-
+27 9:45-17:00 Dion, Beatriz talk, Review of SPOT and sw eng job, TRIM@$%  
+28 9:00-17:30 SW eng job, GD email to IT, GNS MoU, ANUGA inst, AOGS2007 reg
+29 10:00-17:00 Code review to Rajat, cleanup, SEEgrid talk, pub list
+30             SEEGrid
+
+
+
+
+ 
+	
+	
+	
+October
+
+2 - Labour Day
+3 12:30-18:30 catch up, get_boundary_polygon_tests
+4  8:00-17:00 get_boundary_polygon, check in SUT work, Stephen R, Krishna
+5 10:00-18:30 Eclipse, code for ROSH, ATWS/RAMP meeting, .clip()
+6 - (SICK)
+-
+9 10:15-7:30 Revisited okushiri, Dunc, Phil Cummins (ctypes+plot), caching 
+10 9:30-17:30 Okushiri auto valid., geospat, ASI meeting beowulf, fixes
+11 9:15-18:00 Planning, okushiri, channel exampl, Matt, cntct Asavanant
+12 9:45-17:30 ITC profiling, Tsunami Questionnaire, Neil Sunshine (Beowulf)
+13 9:30-16:00 FESA meeting, Phil, clean_all, parallel ANUGA test  
+-
+16 9:00-18:15 Nick back, ANU re para ANUGA, Okushiri as Aug 2005!, petkovic
+17 9:15-18:30 Collin (Tas), ASI visit, grad props, para, GNS MoU, enthought
+18 10:45-18:00 Duncan inst, para, ASI planning, RAMP, 'thrashing'  
+19 9:15-19:00 Got parallel okushiri going + timings. Nick debugging, PhilC
+20 9:00-17:30 FESA meeting, Matt, DCS talk, datamining cleanup
+-
+23 9:00-17:00 ASI disc meeting, krishna, nick, hn thes, DCS lecture (4-5)
+24 9:45-17:00 Okushiri, covariance, machine precision, assisted Nick
+25 12:00-18:00 Nick, Team briefing, Arr beowulf meeting, Okushiri
+26 9:30-18:00 Contact: WG1, WG4, IBM, UQ. Nick, Jane, Lesley, Augusto
+27 9:00-18:30 GEMD planning day, dampier 2006, okushiri mesh & bathy 
+-
+30 9:00-18:45 JJ recom, ASI, okushiri, installation procedures
+31 9:45-19:15 ANUGA install, Nick, Beowulf purchase & IT meetings
+	
+	
+September
+
+1 IDRC
+-
+4 IDRC
+5 IDRC
+6 IDRC (home)
+7 8:30-17:30 Emails, John Jakeman, Flood meeting, ATWS meeting+minutes, Talks
+8 9:00-16:30 Dunc UQ debrief, FESA meeting, GPS talk, travel adm, follow up
+-
+11 9:30-18:30 FESA meeting minutes, PUG meeting + Minutes
+12 9:30-18:30 Feedback to Fei, slides for NW, anuga restructure 
+13 11:00-18:30 CTAC paper, ANUGA docu, SourceForge, parallel anuga, Matt
+14 9:15-18:30 Parallel API and testing, SUT talks, adm work, CIP, Jane
+15 9:15-17:15 Parallel API and testing, ASI, Peter Outeridge
+ -
+18 9:45-18:00 Laptop, Karratha 2006, Amy&Nick, RAMP, S Matheson, Rosh plan  
+19 9:00-18:00 Rosh, Beowulf upgrade, Karratha parallel, GNS MoU, Trezise 
+20 9:15-18:00 Talks, laptop, okushiri and beach parallel
+21 9:45-17:45 Okushiri parallel, code adm, manual, ATWG doc, SUT slides
+22 9:45-      FESA mtng, CART mtng, SUT talk, ANUGA, IDRC report, ATWG docs 
+SUT
+
+
+
+
+
+	
+	
+August
+
+1 9:30-16:00 IMP meeting, FESA lunch, adm, parallel work 
+2 10:00-18:00 PPRs, plannning Davos, parallel work
+3 9:15-17:45 Flood database, parallel, John, Vasily letter, Matt Hardy
+4 9:30-17:00 PPRs, gov passport phot, beowulf meeting, CIP meeting
+-
+7 9:30-18:15 ANU, Rosh, Miriam
+8 9:30-17:30 Robert Hawden IBM, Rosh, Miriam, govt passpt, pyvolution clean
+9 9:00-15:45 Pia Waugh (DEST), adm
+10 9:00-18:15 Pia Waugh, Planning Davos trip
+11 9:00-19:45 FESA meeting, Shark bay debrief, Davos plan, 6/7 planning.
+-
+14 9:30-18:30 TRAC tickets, URS bdry, Davos scramble, Neil announcement
+15 -
+16 8:15-15:45 ATWS meeting& minutes, Flood database, Davos trip planning
+17 9:00-19:00 Flood db report, adm, Anita, Runup experiments for Rosh
+18 9:30-      Rosh DNR
+-
+21 9:30-18:30 Flood database, IDRC plan, PhiVol meeting
+22 9:30-17:30 IDRC and SUT plan, Flood db, PPR, DNR CRA, org office 
+23 12:00-18:30 IDRC talk (home)
+24 9:30-16:30 Rob Woodcock, Beowulf, IDRC talk, Trevor/Anita IDRC talk
+25 9:30-18:00 FESA meeting (minutes), final prep for IDRC
+-
+28 IDRC
+29 IDRC
+30 IDRC
+31 IDRC
+
+
+
+
+
+
+	
+	
+July 2006
+
+3 CTAC
+4 CTAC
+5 CTAC
+6 CTAC
+7 CTAC
+-
+10 10:00-18:00 Debrief and catch up.
+11 15:00-19:00 Home. Software Management Plan for Chris Pigram + Release plan 
+12 10:15-18:00 Coast GIS planning, Mngmnt plan, 3 meetings, slides 19-23 (Home)
+13 10:15-21:00 Prep for coast gis 2006 and travel to wollongong
+14 - CoastGIS 2006
+-
+17 10:00-17:30 acquit, FESA prep, mngmnt
+18 8:30-16:00 Lesley meeting, FESA prep, CIMA meeting 
+19 9:00-18:45 FESA prep, release plan, FESA talk
+20 9:30-18:30 Dry run, G+ alumni meeting, prep
+21 9:15-17:45 Dry runs, PUG task force
+-
+24 FESA
+25 FESA
+26 FESA
+27 9:30-18:30 Move to new office, debriefing, adm
+28 9:30-18:30 Nick, Duncan, Hai-Xu, Beowulf tender exeption, Matt PPR 5/6
+-
+31 9:30-18:00 AusgeoNews, Rosh (MOST vs ANUGA), IDRC, Parallel work
+
+
+
+	

@@ -1,0 +1,63 @@
+
+
+Debian Machine (nautilus)
+---------------------------
+
+<Results from Libranet installation>	
+No NFS, 
+Disable telnet and ftp servers (but need secure shell)
+
+Specs:
+500 MB RAM
+930 MHz CPU
+10 GB Disk
+
+IP:      10.7.70.184  (My WIN machine: 10.7.70.61)
+Subnet: 255.255.248.0
+Gateway: 10.7.64.254
+DNS Servers: 10.7.64.172, 10.7.64.37
+	
+	
+Phil Cummins machine:
+---------------------	
+WIN: 10.7.70.180
+Unix (VMWare): 10.7.67.22, Bcast: 10.7.71.255
+	
+Firewall:
+---------
+10.7.70.184 and 10.7.70.61 can ping each other but not 
+any outside machine.
+
+Works across Firewall:
+  telnet
+  ftp
+  http (web clients)
+
+  
+Does not work across Firewall:
+  ping
+  ssh
+  pserver (for CVS)
+  VNC
+    
+Proxy is proxy.agso.gov.au
+    
+    		
+Beowulf (octopus)	
+-----------------
+IP addresses. 
+Disconnect switch when running?
+One node should be designated master.
+	
+
+CVS repository
+--------------
+Which machine?
+Cuttlefish or Perlite?
+
+Need to run pserver. Should be accessible from machines behind firewall
+(not from the outside).
+
+WinCVS can login. (I was able to use CVS repository at ANU for my home machine) 
+
+

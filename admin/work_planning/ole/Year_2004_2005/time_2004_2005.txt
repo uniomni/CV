@@ -1,0 +1,322 @@
+HUSK
+
+Mail suresh@acfr.usyd.edu.au
+
+
+June 2005
+
+1  9:30-17:30 Dunc's card, Mnage 'swollen' prj, TOR doc, planning, Ron Levers
+2 12:00-18:30 CDWG slides
+3  9:30-17:30 Morning tea, meetings: CDWG, Tsunami, CZ, Darran
+- 
+6 9:30-19:30 cylinders.sww (georef), Duncan, CDWG, Kerry Dunstan, John(CZ)
+7 8:45-18:00 deVries seminar, Mark, texture, CDWG slides, Bob, ESCAP
+8 8:30-17:45 ANU, org ESCAP, CDWG slides, SA landslide
+9 9:30-14:00 CDWG slides, (funeral)
+10 9:00-14:00 Organised ESCAP meeting
+- long weekend
+14 9:30-17:30 Prepare CDWG, manage 'Swollen', David Mackey   
+15 9:30-18:00 CDWG, Adrian
+16 9:00-16:00 UNESCAP Prep
+17 9:00-16:00 UNESCAP Prep, Augusto
+-
+20 9:30-      UNESCAP prep
+21-26         UNESCAP, Bangkok
+-
+27  (Recovery)
+28 10:00-18:00 Clean up talks, Planning
+29 10:00-17:30 ANU, Andrew McPherson (validation), Phil Cummins 
+30 10:30-16:00 David Mackey, validation papers, prep dem, misc 
+
+
+
+
+May 2005
+
+-
+2 8:30-15:30 CZ material, adrian, abstract, HPCUG doc, dvorak for linux
+3 9:30-17:00 Planning (Steve), Chris handover, Duncan feedback, HPCUG talk
+4 9:30-17:30 Ramp sem, Adrian, duncan, HPCUG pres
+5 9:00-15:30 HPCUG pres, landslides, Darran
+6 9:00-17:00 Dunc's interview, landslides, basecamp, AGIMO (ph), trim
+-
+9 9:30-17:30 Bob's letter, geo+ meeting, cyclone, HPCUG, AGIMO demo, Max
+10 9:00-15:00 AGIMO meeting, adrian
+11 9:00-18:30 Budget hand-down, parallel pyvolution (ANU)
+12 9:00-16:00 HPCUG web (Max, Matt), OSS, software dev planning 
+13 9:00-13:00 Software dev planning (ANU) (Robyn -> Calvary)
+-
+16 10:00-15:30 Adrian, Spiro, planning, bug tracking software
+17 9:30-17:30 Bug tracking letter, OSS blurb
+18 10:00-18:30 ANU (parallel),Frank Brassil,Brian Burbidge,John Pew+Cummins  
+19 10:00-14:00 Abstract, geohz talk, OSS, Adrian, pypar 
+20 9:30-18:00 Adrian, OSS links, cut file for Krishna, geohz talk
+-
+23 9:00-18:00 Diskreport, OSS legal, geohz abstract & talk
+24 9:00-17:30 John+Dunc (ATWS), OSS legal, geohz talk, PPT hell
+25 9:30-18:00 ANU (parallel), finished talk
+26 9:00-17:00 Geoplus
+27 10:30-17:00 AGIMO meeting, RAMP
+-
+30 9:15-17:00 Geohazards presentation, adm
+31 9:15-17:00 Corrected gradient computation for 'corner' triangles, AGIMO
+
+
+April 2005
+
+1 9:15-18:00 Finish 3 waves, started flagstaff sim, tsunami meeting, Matt
+-
+4 9:15-17:30 Meetings, inscribed circles, Augusto (2h), managing tsunami prj
+5 9:30-17:30 ANU Contracts (viz), Adrian, Matt, cyclone guid, GEO+ coaching
+6 9:30-15:00 Geoplus, CART, Action plan, wave attenuation, Vizlab movies
+7 GEO+
+8 9:30-19:30 Stephen, NRAP planning, admin, ANU (Drew, Stephen, Matt)
+-
+11 8:30-19:30 Prepare presentations, Alice, Drew, Phil McFadden 
+12 8:00-20:00 Hydrographic Office
+13 8:30-18:30 DMR, email, Planning w Duncan + Matt, numeric schemes 
+14     ANU  Darran Drew Stu + Stephen Matt Linda (Chris!)
+15 9:30-16:00 Wrap up and admin (started using dvorak at home)
+-
+18   WH
+19 12:00-18:00 HR meeting, trevor, mark, bob, dvorak.
+20 8:30-18:00 CART, Spiro, budget, IM meeting + prep, greg
+21 11:00-18:00 Budget, cyclone document, usb disk, spiro
+22   pcs
+25 ANZAC
+26 9:00-18:00 Budget work, David B, David R, Bob, Spiro, CZ  
+27 9:00-17:30 Spiro, IAPSO abstract, Augusto, GEO+ Coaching
+28 9:00-18:00 Spiro (CART), dvorak, cyclone guide, Mark+Drew
+29 9:00-16:30 cyclone guide, mudslide coaching (adrian), matplotlib 
+-
+
+
+
+
+March 2005
+
+1 10:30-18:30 Georef based on mesh, contin. shelf, boundary_polygon 
+2 10:30-17:30 Woll simul, Kathy McInnes, 1st scenario with real boundary
+3 9:30-19:00  NRA workshop, bathy, MOST, precrop optim.
+4 8:30-14:00  inside_poly (C ext), workshop
+-
+7 9:00-16:00 Duncan, Peter, Tony Pearce, outside_poly, Matt
+8 8:00-19:00 Merit appl, cyclone (Max), Drew Whitehouse, modsim abst, bdry
+9            Geoplus 
+10           Geoplus  +   GA
+11           Geoplus
+-
+14 9:30-18:30 MAs, pypar on cyclone, Steve, read Tsunami chapter
+15 9:30-18:30 ferret2sww, RAMP, MAs, RAMP talk, sww to Drew
+16 9:00-19:00 RAMP talk, MAs, prepare_mesh (large problem), refactored polyg 
+17 9:45-20:00 Prepare_mesh, Mas, cyclone, Trish, small woll, overall scope
+18 9:45-18:00 Wollongong, ModSim, abstract, Ross Brodie, scrambling
+- Canberra day long weekend  (some work at GA)  
+22 9:00-19:00 Meetings about tsunami prj, started new simulations  
+23 9:00-18:00 Changed grids, new simulations, meetings, started sww2asc    
+24 9:00-17:00 Did sww2asc, Krishna, Spiro, Ross Brodie       
+- EASTER (In briefly on good Friday to start conversions sww2asc)  
+29 8:45-17:00 Briefed Duncan, simul. to Krishna and Drew, Adrian, dupl. edges
+30 9:30-16:00 NFS meeting, simulation, sww2asc, woonona
+31 9:00-18:00 Simulations, Drew, Adrian, Krishna, Mark, Bob, Kathy, Darran
+
+
+February 2005	
+	
+1 10:00-17:30 DEM work, netcdf, IT
+2 11:00-18:00 Tsunami meetings, David+Peter, IT meeting, Duncan, Don
+3 10:00-18:00 ANU: Stephen, Bob Gingold, Vizlab
+4  9:30-16:30 IT, Bob Gingold letter, conversions, file_boundary again 
+-
+7 9:45-18:15 Conversions, hydro, IT, Duncan
+8 9:00-16:00 (home all day) Spatio-temporal file boundary
+9 9:45-18:15 Planning of prj, testing of spatio-temporal boundary
+10 8:00-19:00 (home first half - testing and reading geodesy), UTM code, Bob
+11 7:30-16:00 Geoplus, UTM code, Bob, IT
+-
+14 7:15-18:15 IT, UTM, Bob, ferret2sww, tsunami meeting, recruitment
+15 9:30-18:00 IT, Peter, ANU contract, Alexei (help), georeferencing
+16 9:30-18:00 Meetings, Jane Sexton, tsunami projects  
+17 9:30-18:00 Grad lim (w-, h-), Adrian+Dunc eval, help Krishna (huge bathym)
+18 9:30-18:00 admin
+-
+21 - Hydrology conference
+22 - Hydrology conf, GA meeting w Tony Pearce, convert_ferret2sww, SR contract
+23 9:30-17:30 File_boundary, Wollong sim, Compiled CSIRO model on cyclone!
+24 9:00-18:00 Mysql, CART, unit testing, netcdf, first wollongong simul.
+25 8:30-16:00 Team briefing, Merit adv docu, Krishna, Demo CD for John 
+-
+28 9:00-18:00 100m DEM (errors), Woll scenario with new dem, origins 
+
+	
+January 2005
+
+17 APAC summerschool
+18 APAC summerschool
+
+19 9:30-18:00 RAMP meet, tsunami planning, Bob, Phil (LAM), 64bit stuff	
+20 9:30-17:30 CZ (till noon), subversion on cyclone, 64 bit stuff fixed
+21 9:30-17:00 Tried to cmpile mpiext.c/psyco on cyclone (%), cleanup, svn
+-
+24 9:30-16:00 Duncan, Grid demo, ANU (Swollen)
+25 11:00-17:00 64 bit stuff, Duncan, Matt, Tsunami, Peter Row
+26 - (Australia day)
+27 8:00-17:15 PA (me+Dunc), Chris, Augusto, polygons, Stephen's contract  
+28 12:00-16:00 Peter Row, Duncan, Chris, Bob (should have done DEMs :-(
+-
+31 9:30-19:00 Peter Row, Contracting Chann. help, John+Greg, Dunc's PA, Hydro
+
+
+	
+December 2004
+
+1 9:45-18:00 Bdry design (Duncan), Geoff Lawford, Refactoring, Bob, MR, Poly 
+2 9:00-18:00 Polygon_function + 'beach.py' simulation (home)
+3 9:45-17:00 AGM, xmas party, Rosh meeting
+-
+6 9:15-18:15 Kathy McGuiness, beach simul, Spiro, MRs, Rosh interview  
+7 8:45-19:15 Dunc Wkpl, Matt, beach ex, Bob PGI, Peter Row, cyclone, bzybzy
+8 9:15-15:45 Chris, Recr meeting, simulations, Compile w PGF90 (Bob), MELB.
+9            Melbourne (BoM)
+10           Melbourne (CSIRO)
+-
+13 8:30-18:00 Matt, org Peter Row to work, Darran (compile), Chris (Hobart)
+14 7:30-17:30 Wind_from_file, Swollen (alpha), Geoplus, Duncan, lectures
+15 8:30-17:30 Subversion prctcs, Setup Gibbsland meet, Peter Row, geo+
+16 9:00-18:00 Peter Row project scoping, Stephen contract, John+Bob meet
+17 10:30-17:00 Intrepid meeting, Milligan, Peter Row, Xmas BBQ
+-
+20            flex
+21            flex
+22 12:00-18:00 Bob cechet, Matthew Purss LAM/Fortran, moved files, summerschool
+23              ANU summerschool   
+	
+	
+	
+November 2004
+
+1 9:15-18:15 Meet Ed & Mark, Chris' wkpln, unit testing, user group, Duncan 
+2 9:00-16:30 Beowulf meeting and training, usergroup	
+3 9:45-17:00 ANU + quad trees (home)
+4 8:45-16:30 Card for Duncan, Python w Augusto, Quad+least squares, Geo+
+5 9:30-16:30 (Home): Testing of least_squares, sparse mat mul, quad trees OK 
+-
+8 9:30-18:30 Lamboot, job requests, BoM collab draft, Wind stress
+9 9:00-18:30 Duncan, Revision ctrl meeting, analytic w Chris, Wind field 
+10 9:30-18:30 Bld db talk, Wind field modelling, Geoplus applic, summerschool
+11 9:00-17:30 Wind, RAMP meet, Chris, Matt, user's group mail, MySQL (AS)
+12 8:45-16:45 SVN cleanup (CZ), Lomas, MySQL, applicant (Rosh), diskreport.py
+-
+15 9:30-17:30 Analyt. sols, usergrp talk, Augusto (mysql from win), Applicants
+16 9:30-18:00 Analyt. sols, usergrp talk, Duncan (sets), windfield, ls bug
+17 9:15-17:45 Stephen (planning), subversion, analyt., Linux (Simon), f2py(AS)
+18 9:15-16:00 Disk meeting, interpol bug (Chris), gps-talk, sparse_ext.c fix
+19 9:00-17:30 Diskreport.py, talking, unit-testing 
+-
+22 13:0-18:00 Bob, Work planning, PA, wind_stress
+23 8:45-18:15 wind stress, disks, HPC UG talk 	
+24 9:30-18:00 Duncan, Ken talk, bugs? (cz), store u,v in sww, File_func, bdry
+25 9:45-10:45 Terry sands meeting, Duncan -> went home sick
+26 12:15-15:30 HPC User Group Kick-off Meeting. 
+-
+29 9:15-18:30 Bob Cechet induction, Matt, PA
+30 9:15-18:00 Bob, Chris&fitting, internal bdries + regions, beach simulation
+ 
+ 	
+October 2004
+
+LEAVE -> 20/10
+21 8:45-16:45 Catching up, Duncan, Chris, pyvolution  
+22 8:45-17:00 Cairns meeting, advertising, timestep bug (grrr)
+-
+25 8:45-16:00 Chased pyvolution bug.
+26 9:15-18:15 Chased bug, meeting w Chris, Duncan and Steve
+27 -          REC LEAVE
+28 9:30-17:30 Found bug, meeting with Augusto and Duncan
+29 8:30-16:00 Meeting w Chris+John, Stephen, Darran, Geotif, Gardner
+-
+
+ 
+September 2004
+
+1 12:00-18:45 C-extensions,  Anita+Mary, Duncan design   	
+2 10:00-17:30 Cairns meeting, trial runs, interview process, SUT planning
+3  9:45-16:15 viz+store to outer generator, SUT visit, Interv planning 
+-
+6 9:15-18:15 code clean, opt (now faster than b4!), interv planning, data io 
+7 9:30-17:30 Prep interv, SVN, Interviews, data_manager
+8 14:00-17:00 Data manager done, interv, testing, netherlands_500000
+9 9:30-18:00 large simulations, talks, interviews + adm
+10 9:45-18:00 Checkpointing, talks, Duncan, Anita, Matt, Dhu, Augusto
+-
+13  ANU meetings - Darran, Summerschool
+14 8:30-19:30 Niwa visit, talk about tsunami prj, Duncan, pmesh2domain
+15 9:30-18:15 Duncan svn, Smoothing prototype, Duncan+Smoothing, cleanup
+16 14:00-18:00 Lomas, Duncan, Phil C, cornell_room
+17 10:00-18:00 Referee's reports, SUT talk, TRAC meeting, Recruitment, cornell
+-
+20 9:30-18:30 Smoothng, Beowulf mtng, Cechet, SUT tlk, tidal cyc, vertex_vals
+21 9:30-18:00 Smoothing done, Cairns case study meeting, talks  
+22 9:00-17:00 Subvsn, smoothng w/ Duncan, Chris, MPI, SUT talk (inc 1h @home)
+23 9:00-18:00 SUT talk fin, seism softw, beowulf acceptance test, ph Cechet 
+24 9:30-16:00 Beow testing, set_values, morning tea, called applicants, phew
+-
+LEAVE 27/9 - 20/10
+
+
+	
+August 2004
+
+2  11:30-18:30 Workplng, hazard rep, Ian O'Donnel, Gradstud draft, Internet slw
+3   9:30-18:00 Workplng, applicant calls, meeting w Chris, printing problems
+4  11:00-18:30 Started reimpl mesh.py (class Triangles), applicants  
+5   9:45-17:00 Grad proposal, ANU contract, mesh.py (neighbrs, bdry) OK, appl.
+6  10:00-17:30 Chris, test_util.py, Workplans, Chris requirement talk
+-
+9  12:45-19:00 class Quantity, surrogate_neighbours, boundaries, Bob Cechet
+10  8:45-18:00 Boundary structures and objects OK.
+11 11:45-17:45 Smoothing talks w Duncan, fluxes + unit testing, Ph Stephen 
+12  8:45-16:45 Talks (UML, Tsunamies), Spiro, Chris (Strang meshes), budget
+13  8:15-17:45 Project leader's meeting, flux unittesting, memory study 
+-
+16 10:45-15:00 architecture, distribute_..., Matt, PA
+17 10:30-17:30 Smoothing meeting, dependencies for Matt, SVN
+18 10:30-17:45 SVN, PA:s, advection module
+19  7:45-18:00 VPython, advection, multimedia db meeting, limiters 
+20 10:30-15:45 Limiters, Anita's meeting, Gradients  
+-
+23 9:30-17:00 Gradient, limiters, selection panel, team briefing, forcing f
+24 9:30-18:30 Applicants, More testing, Stephen
+25 9:30-17:30 Multimedia db meet, RAMP meet, beowulf mt, 2 order limiter tst 
+26 9:00-18:00 (Home): Job applications, Duncan's PA, Ausgeo, debugging
+27 9:30-16:30 Applic, Got SWW going in new version (Python)!
+-
+30 9:15-19:00 Flux C-extension, interview letters, applicants, phi-limiter
+31 8:30-18:00 Applicants, Terry, organise interviews (+5 h night work)
+
+
+July 2004
+
+1 10:00-18:00 Rational meeting,  Augusto meeting, design
+2 13:00-18:00 Demo CD, prep..
+- 
+5-9: Storm konference, Brisbane
+-
+12 Rec leave (EDL)
+13 9:30-18:00 Ausgeo news, conference rep, David, Spiro, Matt, email
+14 11:00-18:00 Finalised PA (last year), Cray talk, Steve 
+15 9:45-18:00 Ed Chudyk (Beowulf), Moved worksp to perlite, Davids talk, Duncan
+16 9:00-18:00 Communications course
+-
+19 9:00-16:00 Library, tech-talk, friction model of buildings, talk talk
+20 10:00-17:30 David Burr (Most), Dotpts, email & prn down, doc, moved cvs
+21 9:00-19:00 Team briefing, Duncan, Trevor, Beowulf, ANU (Darran - contr 2). 
+22 9:00-16:30 adv falcovitz, Comp sww (can't run), Beowulf, Cairns case
+23 10:30-18:00 ANU contract, cairns case mting, techtalk, plannin, john demo
+-
+26 11:30-18:30 Cairns case mt w Duncan, tech-talk, DG wk plan 2004.
+27 10:00-18:00 Tech talk, Workplace assesment, ANU contract 2, code complete
+28 8:45-18:00 Joseph Falcovitz, Ken Dale, work planning, PA;s, techtalk
+29 8:45-17:00 Falcovitz talk, Lead discussion about XP and momentum sinks
+30 9:30-15:30 OSS mails, workplanning, Miriam, Trevor (VPython) 
+

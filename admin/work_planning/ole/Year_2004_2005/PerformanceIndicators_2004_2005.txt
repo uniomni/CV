@@ -1,0 +1,137 @@
+
+
+Introduced into GA
+  - Revision Control Systems
+  - Unit testing
+  - Issue tracking
+  - OSS awareness (see below)
+   
+    
+    
+  	
+		
+Lead and Completed Tsunami study for the catastrophic disasters work group
+
+Initiated contact with AGIMO re licensing
+
+Initiated head collaborative agreement 
+
+Lead HPCUG (lead two meetings)
+
+Presentations:
+  Geohazards
+  Special Seminap
+  ESCAP (Bangkok)
+  
+  
+ANU Summerschool
+
+Geoplus
+
+	
+	
+------	
+See Merit advancement as well	
+-----	
+	
+Took on situational leadership of my immediate sub-project (computational fluid dynamics).
+
+Developed sophisticated software for the modelling of inundation due to floods.
+
+Pursued and fostered liaisons with the Bureau of Meteorology, CSIRO and the ANU.
+
+Identified problems with disk storage and information management to the group.
+
+Lead acceptance testing of corporate computational cluster and formed and lead user's group.
+
+
+----------------------------
+Developed Inundation model
+
+Lead and supervised development of smoothing and interpolation software.
+	
+Supervised DSG:	
+  Cairns case study	
+  Pmesh
+  Smoothing 
+  Beowulf testing
+  
+
+Contact person for two recruitments (Bob Cechet and CZ's replacement)	
+
+Took leadership of Inundation modelling project 
+Succesfully lead Tsunami modelling
+
+
+Geo+	
+
+** !!! Formed and lead user's group
+ 
+** !!! Lead testing and initial experiments with beowulf cluster
+
+Took leadership in better management of RAMP filesystems.
+
+
+** Participated in writing a succesful proposal for automatic discrimination
+of signals in hydro-acoustic data (with Spiro Spilioppulus, Trevor Dhu and Dave Jepsen). 
+
+
+
+Lead writing of AusGeo News article (June)
+Participated in Bewould RFT evaluation panel (May June)
+
+
+Liaisons:
+Participated in 11 International Conference on Severe storms, Brisbane, 
+5-9 July.
+
+Wrote letter of recommendations regarding potential for collaborations with BoM/JCU to GA senior management.
+
+Contributed to MOU between BoM and GA 
+Visited BoM and CSIRO Atmospheric research (with Bob Cechet) and succesfully  
+initiated collaborations.
+
+Identified collaboration between Kathy McInnes (CSIRO) and GA. 
+Defined project, supervised student (Peter Row) working on it.
+
+Leadership in good software practices:
+  - CVS/SVN
+  - Scientific computing (Beowulf)
+  - Open Source
+  - Maintained friendly liaisons with IT
+
+
+  
+Communications course 16 July 2004 held by Acorn Training and Consulting.
+
+
+Participated in regular meetings with technical group in order to develop suitable modelling framework and understand the handling of uncertainty.
+
+Lead discussion on 29 July on Agile Processes for managment and use of 
+momentum sinks for aggregating large groups of structures in fluid dynamics modelling.
+
+Wrote second ANU contract and supervised visualisation work.
+
+Was driving proposal for graduate student.
+- supervised?
+
+Contributed to GA Open Day 22/8/4 with visualisations of hydrodynamics
+
+Collected dotpoints for RAMP 
+
+Assisted Augusto with Python programming.
+Installed MySQL database and got him started (11/11).
+
+
+Unplanned activities:
+  - Recruitments of CZ's repl.
+  - Leadership of Inundation project (incl Stephens contract!)
+  - Duncan sick (Quadtrees in smoothing software)
+  - Geo+
+  - RAMP disk management strategy  
+  -----------------New
+  - BoM CSIRO visit
+  - Gibbsland lakes storm surge inundation project (w Kathy McInnes)
+  - Peter Row (Supervision)
+  
+  

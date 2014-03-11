@@ -1,0 +1,229 @@
+
+June 2004
+
+1 9:00-21:00 (Home) Beowulf tender documents, talk, simulations, viz
+2 9:00-18:00 Duncan, Steve, Chris, Talk, Beowulf tender meeting 
+3 9:00-17:00 Talk, John+Chris
+4 9:00-17:00 Home - Ausgeo, water tap simulations
+-
+7 9:15-18:30 A bit of everything, Talk
+8 9:00-18:00 Talk (+ Chris' talk, simulations)	
+9 9:00-18:00 RAMP review day
+10 11-15:30 Clean up, 3d lab, plan Cao's visit
+11 9:15-17:15 Host for Linagyue Cao, Geoff Lawson 
+- (long weekend)
+15 9:30-14:30 Design talk w Duncan, Ausgeo (+ wk at home)
+16 SICK
+17 SICK
+18 10:00-14:00 Storm conference, simulation
+-
+21 9:30-17:30 Ausgeo paper, Matt, Storm conf paperwork, Chris, Beow. tender 
+22 11:00-18:00 simulations, Ausgeo, RAMP meeting, Helped Chris  
+23 9:30-18:00 simulations, Ausgeo (fin), Helped Chris, ROCKS  
+24 9:45-18:00 Pushed XP, Read BoM paper, clean out, migration of Linux box
+25 9:00-16:00 Matt, tried __slots__ idea, linux adm
+- 
+28 9:30-17:30 Job ad, Design'n requirements (Steve, Chris, Duncan)   
+29 9:30-18:00 Req/design w Duncan, helped Chris, admin  
+30 9:30-17:30 Job ad, Pyvolution Documentation, Duncan
+
+	
+May 2004
+
+3 9:00-18:00 Darran, Duncan, openscenegraph (9:30-17:30)
+4 8:45-18:00 Checkpoint, data format, dot-points, Duncan 
+5 8:15-18:30 Darran, OSG cygwin try, data output
+6 8:30-14:00 Steve (1st order limiters) Planning 
+7 9:00-17:00 Planning, simulation, limiters, openscengraph, Houdini
+-
+10 9:30-18:00 Cleanup, 2 order gradient limiter, Darran (netcdf), AusGeo
+11 8:45-18:00 2 order limiter, netcdf, Darran (10:30-17:30), IT, Linux
+12 1:30-18:30 Improved limiter w Stephen, netcdf, Duncan (PCS day)
+13 11:00-13:00 IT, netcdf
+14 10:00-17:30 NetCDF, Geoff Lawford, Checkpointing, Duncan ex
+-
+17 9:45-18:45 Weir example w pmesh, Duncan, sww2obj, Houdini
+18 10:00-18:00 Data management, Duncan, Houdini, Teamtalk, Beowulf RFT doc 
+19 10:00-18:00 Talk, examples, IT, team meeting, weir_80000
+20  9:00-16:30 Planning Meeting, wiki, talk, laminar, bdry tags
+21 11:10-18:15 Requirements (Duncan), talk examples
+-
+24 9:30-18:00 Requirements, Chris, Duncan, talk, examples, pressure force 
+25 8:45-16:45 Talk, Duncan, Chris, Trevor, Dot points
+26 8:45-17:30 Talk, connective boundaries, viz+smoothing, budget, talk
+27 9:45-17:45 Data manager - smoothing
+28 9:30-15:00 netcdf filter, runs, talk, Duncan, Matt 
+-
+31 9:15-18:15 xya normalise (Duncan), Beow tender, talk, viz, dotties (busy)  
+
+April 2004	
+1 9:30-17:00 Domain w advection done, planning meeting, ANU talk
+2 8:30-16:30 Augusto meeting, budget meeting, beowulf meetings ANU 	
+-
+5 9:00-18:30 Chudyk, Data meeting, Stuart Girvan, Augusto, new struct works! 
+6 9:00-18:45 Profiling, group meeting, flux C-ext: 20.5s->0.25s!
+7 9:30-18:30 C-extension of distribute. Works except default limiter
+8 9:00-16:30 Distrib (C) OK, update_cons (C), Beowulf Physics ANU
+- Easter break
+19 11:30-18:30 Catch up, Trim, Beowulf RFT, Update cons quant C.	
+20 10:00-18:30 Cons q, dot points. slope+frction OK. t = 0.01s, tot: 0.44s!  
+21 11:00-17:00 Arbitrary slope+fric, Rotate opt. Tot: 0.27s. Forcing terms.
+22 8:30-17:30 Steve, Chris, limiters, weir.py, channel.py 
+23 9:00-16:00 Fixed tests, removed mallocs: Now 0.2s! Flux+Limiters
+- Anzac break
+27 9:00-16:30 Changed order, to_file, Vizlab contract, cleanup, dot points
+28 8:30-17:30 1 order fix, timestepping, weir + bedslope + wave examples
+29 8:45-17:30 Demos, discussed min timestep, Darran visiting
+30 9:30-17:30 Initial conditions, Peter Lomas, data to Darran, bdries, ex
+
+March 2004
+	
+1 - Off on half pay: Container arrival
+2  9:00-17:30 Beowlf mail, Viz Contr, Duncan, Perf rev, inv from ncsu, pyrex
+3  8:45-18:30 trim survey, pyrex, meeting with GAV, removed memory leak 
+4  9:15-17:15 C-extensions for compute_flux. RAMP meeting
+5  9:15-16:15 C-extension for entire compute_flux.
+-
+8  9:45-18:45 CVS access to ANU and scripts, Anita's article, rcvs.bat
+9  8:45-17:45 CVS access, smoothing (wallis data)
+10 8:45-17:15 Wallis, Steve (CVS etc), C-shortcut for flux func
+11 8:45-18:15 Steve, Duncan, Vizlab contract, planning Cadell trip
+12 11:00-17:30 Cleanup, cadell trip, HR, FV precomp, Anita, Dirichlet bdries 
+- Canberra day long weekend
+16 9:00-17:30 Vizlab contract, Duncan, started refactoring of FV (brr)
+17 9:30-17:30 Grohm meetin, Capital bid meeting, Duncan talk, ANU contract
+18-23 Cadell fault
+24 9:15-17:00 Design Meeting w Steve and Chris. Duncan. Wiki in grohm.
+25 9:00-17:15 Design with Duncan, TA+EDFA, Organised PA's, contract etc.
+26 9:00-15:00 Duncan, Budget meeting, first cut at mesh.py "production"
+-
+29 8:30-18:00 PA, two talks, IT beow meeting, Augusto, mesh.py
+30 8:30-17:00 Mesh using new structure. Phew.
+31 8:30-18:00 First cut at new domain. Talks with Steve, Budget
+	
+February 2004
+
+2  9:00-18:30 pmesh w Dunc, Bttld w triang c-ext, XunGuo, CVS, Wind md, frames
+3  8:45-17:00 Software (Chris), Anita, domain.py, time dep bdry, wave example
+4  9:00-18:30 Vuln rep, linux upgrade, holland model, meeting, Duncan (Bdries)
+5  9:00-19:00 Shallow water wave equation (Steve + Duncan)
+6 10:00-16:30 Shocks, reflective bdries, SBS (seismic viz), pmesh->FV
+-
+9  11:00-19:00 First cut at second order method + revamping (steve)
+10  9:00-19:00 Implemented limiters, testing, 2 order visualisation
+11  8:30-17:15 Cleanup, std viz, Flux object, examples, Phil Ryan (Beo)
+12  9:00-18:15 Beowulf software, boundary gradients cleanup, pmesh bug
+13  9:00-16:00 Beowulf doc, clean up, profiling, c-ext rotate
+-
+16  9:00-18:00 GROHM meeting, first stab at bed-slope with Stephen
+17 12:00-15:00 Got bed-slope to work and visualised. Investig. drying.
+18  9:00-18:00 Beowulf letter, Bedslopes, limiters and 'drying' w Stephen    
+19 10:00-14:00 ANU vizlab
+20  9:00-18:30 Flux C-extension (speedup~3), Phil Ryan, Geoff Lawson
+-
+23  9:15-18:15 Optimisations + grad C-ext. talk, UML meeting, Duncan, Chris
+24  8:45-19:15 finite-volumes - lots of interruptions - domain_ext.c
+25 10:00-18:00 Stephen (C extensions pyrex, psyco), Wallis dataset
+26  8:30-18:00 Friction terms, demo to Matt, domains, vizlab proposal
+27 10:00-18:00 ANU Lex Nielsen talk, Geoff Lawford, visualise
+-
+
+January 2004
+
+5  14:00-20:00 catching up, Meeting with John, upgr nautilus (wajig, python2.3)
+6  11:30-17:30 more catching up. Meeting with Matt
+7   9:30-17:30 pmesh, steve's contract  (-3h sick)
+8  10:00-18:00 Contract, Matt, Chris, Duncan, smecMesh.m (look at), Steve  
+9  10:30-17:30 Files from S Roberts, 2 Meetings (Augusto workplan + DMAP data)
+-
+12  9:45-18:00 Battled w hull.c and alt, modif pmesh w simpl alt, Augusto 
+13 12:00-16:00 ANU, meeting with Steve Roberts and Aliki 
+14 10:00-16:00 Meeting w Chris, Augusto, Trevor D; First cut at (my) mesh.py 
+15  9:30-17:30 Geometric mesh, started class Volume, meet w Spiro and Trevor
+16 10:00-17:00 Vulnerability report, flux codes (from Matlab), pypar, sut
+-
+19 10:00-18:00 Finite volumes papers, Contract, meeting with Steve at the ANU
+20 10:30-18:00 Advection, triangles, rectangular mesh, cygwin 
+21  9:30-17:30 Cygwin (Numeric), IT meeting, dcvs (investigate), advection
+22 - Off on half pay: MC course
+23 10:00-17:00 Chris, Duncan, Anita, spam, finite-volumes (mesh) 
+- Long weekend
+27  8:30-18:30 Steve-Duncan-Chris, Got advection.py to work!, Anita 
+28  9:00-17:00 Phil Cummings, FA, finite_volumes testing, visual python
+29  9:30-18:00 Visual, Cygwin compile (Phil), Disipyl, Thick visual triangle  
+30  9:45-18:45 Phil, animated VPython triangles, Advection visualisation
+	
+	
+October - December 2003: SUT Thailand
+
+	
+September 2003
+
+1  DFA Melbourne	
+2  DFA MElbourne
+3 9:00-18:30 Anita meeting, RPQ, Python-Fortran ll2ne/ne2ll
+4 - Team building workshop
+5 9:00-18:00 Workplans: Chris, Duncan. F2py install, f77 arrays, Beowulf
+-
+8 11:45-18:45 Duncan PCS, prob rep, Transforms of Magnetic data, job, Mesh 
+9   9:00-17:00 Disaster Workshop, National Convention Centre 
+10  9:30-15:00 Lectures.
+11 11:30-18:00 Lectures, Pmesh testing, Leharne demo
+12 8:45-17:00 Job ad w Duncan, Cygwin with Phil, Lectures, wrap up
+-
+SUT from 15/9 to end of year
+	
+August 2003
+
+1 12:00-15:30 vizualisation txt, Lk web solutions, Risk chats (Trevor, Matt).
+-
+4 9:45-16:00 PyGEO, Kane Orr, meeting at nat'l library
+5 9:00-17:30 Mapserv doc, work meeting, interview (Wally, John), Matt, monitor
+6 10:30-18:00 New modeller, Workplan, Kane, New modeller paragraphs 
+7 9:30-18:00 Webserv w Andrew and Kane, monitor.py, packed, Webserv test1 OK.
+8 -  Moving offices (day off)
+-
+11 9:15-19:30 Unpacking, spiro, earthquakes 
+12 8:45-17:00 Visualisation demo leharne, Channel seven, org DFA trip, ANU
+13 9:15-19:30 Beowulf recomm, meeting, cvs on marl, Kane, Matt, monitor.py
+14 9:15-18:30 Beowulf letter, Anita, visualisations in eductr, job adv, matt
+15 10:30-17:45 Edu center, Grp meeting, Anita, Mapserver rd, beowulf rec.
+-
+18 10:30-18:00 Anita, seismics fin, beow ltr, spiro prop, DSG workplan, matt
+19 9:00-18:00 Team briefing, job ad, nolabels, workplans, Anita, Spiro
+20 8:30-18:00 ArcView course - started ICIAM rep talk 
+21 8:45-17:15 ArcViews course. Job-ad. 
+22 10:00-18:30 talk talk talk, job ads, workplan Anim demos, Monday ICIAM rep
+-
+25 9:30-18:30 Mail to IT, ICIAM2003 feedback pres, Web meet, Seism talk, Mary
+26 12:30-14:30 (Sick)  Check out talk with Trevor Dhu
+27 15:00-17:00 (Sick)  EQ sem.
+28 9:30-17:50 Talk in earthquake sem, RPQ, f2py inst on Win and Linux.
+29 8:45-17:45 Morning tea, Vuln rep,Latlon2Ne work, Trevor Dhu
+-
+	
+July 2003
+
+1 9:15-18:00 APAC meeting 2.5h, ICIAM talk, seismic ts (-2h shopping) 	
+2 9:00-16:00 Seismic animations multiple stations + talk talk talk.  	
+3 9:00-18:00 ICIAM talk, seismics, Vuln rep, Alice's talk, Trevor Dhu Python
+4 10:00-18:00 Talk, mesh meeting, budget talks, printing problem.
+-
+7-11          ICIAM 2003
+-
+14 10:30-17:30 Vuln report, emails, Matt, Spiro.
+15 10:00-15:30 Phone meeting, seismic monitor version 0, John.
+16 10:00-18:30 Duncan, Anita, seimic monitor beta., spiro cvs	
+17  8:50-17:15 Seismic player, Mark Edwards talk 
+18 FLEX
+-
+21 9:15-17:00 Showed seismic player to Mark, Ed Chudyk, Streamflow attr.
+22 9:00-17:00 Seismic player, Lu Zhang meeting, Greg McNamara, Terry Sands
+23 8:45-18:45 New area, Planning w Chris etc, HECRAS, player, Duncan scaling
+24 10:30-17:30 Actionplan, Terry sands, more plan 
+25 9:00-18:00 Actionplan, monitor bug
+-
+28 9:30-19:00 Actionplan, anim hour-span, monitor hng bug, Terry, Spiro, Matt 
+29-30 GRID WORKSHOP
+31 9:00-17:00 Mng mtng, my workpl, 3D viz mtng, workpl Duncan, fix player.py
+

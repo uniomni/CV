@@ -1,0 +1,155 @@
+
+	
+Map 	
+
+
+Root of project flood in
+
+Marl/sandpit/oracle/  (Mapped to S: to work with J developer) 
+http://www.ga.gov.au:8500
+
+
+JSP and html source code is in directory flood
+
+
+Root page is in flood_input.jsp (POST method)
+
+Any info when 'query' is clicked passed into flood_studies.jsp
+
+(l 161 creates db connecition which is closed from line 254)
+FIX null issue
+
+
+
+Selecting a study transfers control to flood_infolist.jsp
+
+Show table of links to details for each dataset
+
+Creates a connection through the class AvailableDataset (which takes care of closing it again). This class is in CVS   Marl: /web/src
+
+
+pserver 
+
+IN CVS:
+  FloodDataset.java: Gets data and formats. 
+  Has an connection open but no close.
+  Remedy:
+
+  Move connection open and close to FloodDetailServlet.java
+ 
+  All methods in FloodDataset.java (as well as FloodDetailServlet.java) now get open connection handle passed in as 
+  first parameter.
+  
+
+  To deploy. Create one jar file from java source and copy to sandpit.
+  
+  
+  
+
+  
+     
+http://www.ga.gov.au:8500/oracle/flood/flood_infolist.jsp?sno=1&sname=Avoca%20River%20Floodplain%20Management%20Study
+
+
+
+ole@nautilus:~/anuga/tools/demos$ python test_flood_database.py
+Testing http://www.ga.gov.au:8500/oracle/flood/flood_input_hide.jsp.  OK: Page is live
+
+Reading flood_studies_all.html
+Testing flood_infolist.jsp?sno=1&sname=Avoca River Floodplain Management Study... OK: Link is live
+Testing servlet/FloodDetailServlet?sno=1&sname=Avoca River Floodplain Management Study&d... OK: Detail link is live
+Testing servlet/FloodDetailServlet?sno=1&sname=Avoca River Floodplain Management Study&d... OK: Detail link is live
+Testing servlet/FloodDetailServlet?sno=1&sname=Avoca River Floodplain Management Study&d... OK: Detail link is live
+Testing servlet/FloodDetailServlet?sno=1&sname=Avoca River Floodplain Management Study&d... OK: Detail link is live
+Testing servlet/FloodDetailServlet?sno=1&sname=Avoca River Floodplain Management Study&d... OK: Detail link is live
+Testing flood_infolist.jsp?sno=2&sname=Avoca Floodplain Management Study: Techni... OK: Link is live
+Testing flood_infolist.jsp?sno=3&sname=Horsham Flood Study... OK: Link is live
+Testing servlet/FloodDetailServlet?sno=3&sname=Horsham Flood Study&dname=Floor Level Sur... OK: Detail link is live
+Testing servlet/FloodDetailServlet?sno=3&sname=Horsham Flood Study&dname=Historic Flood... OK: Detail link is live
+Testing servlet/FloodDetailServlet?sno=3&sname=Horsham Flood Study&dname=Terrain Surveys... OK: Detail link is live
+Testing servlet/FloodDetailServlet?sno=3&sname=Horsham Flood Study&dname=Related Study... OK: Detail link is live
+Testing servlet/FloodDetailServlet?sno=3&sname=Horsham Flood Study&dname=Hazard Mapsets... OK: Detail link is live
+Testing servlet/FloodDetailServlet?sno=3&sname=Horsham Flood Study&dname=Hydraulic Scena... OK: Detail link is live
+Testing servlet/FloodDetailServlet?sno=3&sname=Horsham Flood Study&dname=Hydrology Scena... OK: Detail link is live
+Testing servlet/FloodDetailServlet?sno=3&sname=Horsham Flood Study&dname=Inundation Maps... OK: Detail link is live
+Testing flood_infolist.jsp?sno=4&sname=Avoca River Catchment - Recent Hydrologic... OK: Link is live
+Testing servlet/FloodDetailServlet?sno=4&sname=Avoca River Catchment - Recent Hydrologic... OK: Detail link is live
+Testing flood_infolist.jsp?sno=5&sname=City of Ballarat - Flood Mitigation Strat... OK: Link is live
+Testing servlet/FloodDetailServlet?sno=5&sname=City of Ballarat - Flood Mitigation Strat... OK: Detail link is live
+Testing flood_infolist.jsp?sno=6&sname=Barwon River - Cup Day Floods November 19... OK: Link is live
+Testing servlet/FloodDetailServlet?sno=6&sname=Barwon River - Cup Day Floods November 19... OK: Detail link is live
+Testing flood_infolist.jsp?sno=7&sname=Benalla: Floodplain Management Study... OK: Link is live
+Testing servlet/FloodDetailServlet?sno=7&sname=Benalla: Floodplain Management Study&dnam... OK: Detail link is live
+Testing servlet/FloodDetailServlet?sno=7&sname=Benalla: Floodplain Management Study&dnam... OK: Detail link is live
+Testing servlet/FloodDetailServlet?sno=7&sname=Benalla: Floodplain Management Study&dnam... OK: Detail link is live
+
+
+
+
+Testing servlet/FloodDetailServlet?sno=25&sname=Geelong Flood Mitigation Strategy&dname=... OK: Detail link is live
+Testing servlet/FloodDetailServlet?sno=25&sname=Geelong Flood Mitigation Strategy&dname=... <html>
+<head>
+<style type="text/css">
+<!--
+div {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 10pt}
+strong {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 11pt;color:black}
+td {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 10pt;}
+h3 {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 15pt}
+th {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 11pt}
+-->
+</style>
+<title>
+Geoscience Australia flood Online Search: Studies details
+</title></head>
+
+<body>
+<table summary="this table is used for layout only" width = "90%" align = "center" CELLSPACING="10">
+<tr><td align = "left" valign = "bottom" width = "210">
+<a href="/"><img width = "210" height = "60" src="/build/img/logo_inline.gif" border = "0" /></a>
+</td>
+<td align = "left" valign = "bottom">
+This data is subject to Geoscience Australia's
+<a href="/about/disclaimer.jsp">disclaimer</a> and
+<a href = "/about/copyright.jsp">copyright</a> statements.
+</td></tr>
+</table>
+<hr />
+<p><table summary="this table is used for layout only" align = "center" width = "90%" CELLSPACING="1" border = "1">
+<tr><th>Related study</th></tr>
+java.lang.NullPointerException</p>
+</body></html>
+FAIL: Detail link is not live
+
+
+Testing servlet/FloodDetailServlet?sno=23&sname=Euroa Floodplain Management Study, Volum... OK: Detail link is live
+Testing servlet/FloodDetailServlet?sno=23&sname=Euroa Floodplain Management Study, Volum... <html>
+<head>
+<style type="text/css">
+<!--
+div {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 10pt}
+strong {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 11pt;color:black}
+td {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 10pt;}
+h3 {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 15pt}
+th {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 11pt}
+-->
+</style>
+<title>
+Geoscience Australia flood Online Search: Studies details
+</title></head>
+
+<body>
+<table summary="this table is used for layout only" width = "90%" align = "center" CELLSPACING="10">
+<tr><td align = "left" valign = "bottom" width = "210">
+<a href="/"><img width = "210" height = "60" src="/build/img/logo_inline.gif" border = "0" /></a>
+</td>
+<td align = "left" valign = "bottom">
+This data is subject to Geoscience Australia's
+<a href="/about/disclaimer.jsp">disclaimer</a> and
+<a href = "/about/copyright.jsp">copyright</a> statements.
+</td></tr>
+</table>
+<hr />
+<p></p>
+</body></html>
+FAIL: Detail link is not live
+

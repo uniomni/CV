@@ -1,0 +1,104 @@
+	
+June 2003
+
+2  9:30-18:00 GeoHazards talk, Wavelet transforms OK, C-ext & cygwin?
+3  9:00-17:30 Wavelets (python versions), streamflow signatures.	
+4  9:00-15:30 Duncan, dislin, disipyl, streamflow w plots, compile.py 
+5  9:00-17:00 Streamflow, Phil Cummins Cygwin, Mesh (Femme) Duncan
+6  9:00-17:00 Streamflow plots, Spiro, SA agreement, dislin bug, TKinter
+- QB long weekend
+10 10:00-14:30 Review, DCS talk
+11 9:15-17:45 DCS talk, Peter Milligan meeting, streamflow histograms, disipyl
+12 9:00-18:00 Clustering, Alice (Python), Trim, Streamflow results, happy hour
+13 9:15-17:30 Streamflow, Grp meeting, Matt, John, Streamflow, TKinter
+-
+16 9:30-18:00 Admin, Mediation, DCS talk, Beowulf support to Des and Ray
+17 11:00-15:30 DCS talk - Support for Des and Ray (sick)
+18 13:00-17:30 (Sick) Hazus demo, DCS talk at the ANU
+19 9:00-17:45 Steve Stormsurge, Jim Beaver talk, Tkinter, Visual P 
+20 9:00-18:30 Time series animations, reading seismic data 
+-
+23 9:00-18:30 Beowulf ann report, Map talk, Trevor talk, read seismic data
+24 10:30-15:30 Time series, seismic data prototype. 
+25 9:00-17:45 Andre Zerger, Jim B talk, Visual inst probl, Bibliography  
+26 9:00-18:30 Linux upgr, Inst VPython, ICIAM, Beowulf bid, point.py Spiro 
+27 9:30-16:00 Installed Lahey Fortran on Linux, Grp meeting, seism animation
+30 9:00-19:30 Linux adm, Vuln rep (TeX), Leslie talk, grp meeting, Matt, Chris
+
+	
+May 2003
+
+1  9:00-18:00 SSH security, team briefing, IP addr, beowulf, debian upgr, cvs
+2  8:45-17:30 Beowulf NFS mountings, battle with ssh.
+-
+5  7:45-17:00 Geostatistics Course, Brassey Hotel
+6  8:45-17:30 Beowulf shopping list (Leslie), Duncan 	
+7  9:00-18:00 Beowulf : NFS, Mirror, apache, debian trouble, Duncan      
+8  9:00-18:30 Learning plan Duncan, Download repos, Beowulf + 5h planning
+9  9:00-17:00 Workplans till noon, Duncan, Beowulf 'testing' OK.
+-
+12 8:30-16:30 Beowulf - all 'testing'. Pypar, Smiwat (spdup=5.4). Grid/XML sem 
+13 8:45-17:45 Beowulf - Steves code, some streamflow, CYGWIN and ssh
+14 8:45-17:30 Phil, Duncan, Streamflow (generators), fwt Matlab -> Python 
+15 8:30-18:15 SA draft, IP for Trevor, briefing, comp phil's code, DCS talk 
+16 8:45-17:45 DCS talk, Phil's code on octopus + timings, CGI
+-
+19     ANU meetings w Duncan re Beowulf
+20 8:45-17:45 Emails about Beowulf, adm, Webware
+21 8:30-19:00 Webware, Webobjects, Beowulf bid, made team talk
+22 8:30-16:30 Packing, team meting + talk, NATSEM read + anita 
+23 8:45-17:00 Setup office, SA agreement, pywave filters
+-
+26 9:30-18:30 Induction checklist, Xun Guo (Emacs), CVS, BEO abstract, Ausgeo
+27 9:00-17:30 CVS reposits, Workplan Duncan, GeoHaz talk, Steve MPI/gas dyn
+28 9:00-17:00 Beowulf talk. Timings on APAC machine.
+29 9:59-18:00 SW Support for grp, wavelets.py and initial tests
+30 9:00-12:00 cygwin, wavelets.py
+-
+
+April 2003
+
+1  9:15-17:15 Vuln paper, strat pln m. Phil McFadden/Chris Pygram, python mode
+2  9:15-17:30 Meetings->12, Vuln paper, Meeting w Anita, Latex 
+3  9:00-17:30 Latex/Anita, Vuln paper
+4  8:45-17:15 Vuln paper. Spiro.
+-
+7  8:45-17:45 CVS test Perlite, m Lu Zhang, Vuln paper, WinCvs
+8  9:15-18:15 Vuln paper, Extracted partion of data acc to DT, mv req
+9  9:15-18:00 Seminar (Munich) Vuln paper, Aus Geo articl (less 3.5h)
+10 9:15-18:00 Looked at CVS, Bibtex w David, Aus Geo !, Staff induction 
+11 9:15-18:45 Morning tea, Latex w David, call fr Natsem, Ausgeo art, Libranet 
+-
+14 EMA workshop Melbourne
+15 EMA workshop Melbourne
+16 8:45-17:00 Linux box: nautilus, Xfree, net client, proxy, cvs rep, chris
+17 9:45-17:15 IT bud meet, CVS (chris, trevor, anita, vuln rep), m w Matt, Chris-easter
+22 12:15-18:30 Reinstalled cygwin (ssh -X now works), Beowulf (first node)  
+23 10:15-18:15 Beowulf, Vulnerability (NATSEM), Mary  
+24  9:15-14:30 Beowulf, IT
+-ANZAC
+28 9:00-18:30  IT mail, Spiro talk, floodbank, Streamflow, DISLIN
+29 8:30-19:00  Team meeting, Vuln rep, NATSEM mail, att scipy, chaco, gnuplot
+30 8:30-18:00  Vuln report, Anita talk, att scigraphica, tried wxPython (Win)
+
+March 2003
+
+10 9-18    First day at work, Introductions, keycard
+11 9-17:30 Library induction, setup of survey project, interview meeting, CART
+12 9-17:30 Health check, team meeting, Rd applics, CART, Linux, try org m w IT
+13 9-19    Interviews, assesments, Debian 
+14 9-15    Interview reporting, Debian -> Firewall, ICIAM reg, Super 
+- Long weekend
+18 9-17:30 CART work on survey data. 
+19 8:45-18:15 CART studies (best aggregation), mail Duncan, beowulf search
+20 9:00-17:30 M w Steve, Anita ab dec trees, A0 print, Matlab mapping
+21 8:45-15:30 M w Chris, Anita ab survey, smoothing, CART 
+-
+24 8:45-18:00 M Natsem, ICIAM arrangements, Chris, Duncan
+25 8:45-17:00 Bomb m, ICIAM reg, S f Pyth/mapping, openEV, Trevor Dhu
+26 8:45-18:00 Strategic plan w Chris, M w Mary 
+27 9:15-17:30 Grid meeting, Brian Minty, Cygwin, Beg Anita's paper, Chris
+28 9:00-16:00 IT, Security vetting, decision rules, Libranet purchas started
+-
+31 9:00-18:00 Generated test set for NATSEM, Vuln. paper, grid blurb for Leslie
+ 

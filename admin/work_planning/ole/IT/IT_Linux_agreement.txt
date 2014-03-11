@@ -1,0 +1,94 @@
+
+Re: Linux requirements for Ole Nielsen (Urban Risk Research Group)
+------------------------------------------------------------------
+
+Background:
+  The aims of the riskmodelling group is to develop modelling software 
+  for disasters, vulnerability, exposure and risk. These tools are to be used 
+  in risk research and for decision support both within the group and 
+  externally. One of our requirements to meet these goals is to have 
+  access to a Linux environment for the following reasons:
+
+  1: Linux has proven to be an extremely stable development platform,
+     it is very well supported and it runs on inexpensive off-the-shelf PCs.
+
+  2: Software used with Linux is Open-Source and hence free. 
+     It is also of high quality because of the large 
+     community supporting and validating it.
+     This allows flexibility in the choice of software development 
+     tools.
+  
+  3: Linux platforms can provide services to our group 
+     such as the ability to compile and run software developed for Unix and 
+     revision control, which will improve the group’s configuration processes.  
+     
+  4: A Linux environment is necessary for an in-house Beowulf-style parallel
+     cluster for high performance computing.    
+     
+  5: Maintaining Linux expertise within GA would mean that if in the future
+     Linux is to be used more extensively GA could rapidly adapt to this change.
+
+  6: Our software should be platform independent.  Therefore we need access to 
+     both Windows and Unix platforms. A Linux box provides such an up-to-date and 
+     standardised Unix platform.
+
+     
+Hardware requirements:
+  The group of software developers needs one standard PC with a static 
+  IP-address to support in-house software development.
+  
+  
+Software and Support requirements:
+  None  
+
+
+Maintenance:    
+  As the system is installed and maintained locally, in order to 
+  fully utilise the potential, at least one member needs full administrator rights.
+  IT will also have those rights and will be able to audit the system 
+  in order to ensure that proper security practices are in place and that
+  the system fits in with the corporate structure.
+
+
+Security issues:
+  1: The Linux system will operate behind the corporate firewall along with
+     other personal computers.
+     
+  2: All software installed on the Linux desktop will be in accordance 
+     with legal, appropriate and ethical practices. 
+     
+  3: The Linux system will be configured to be secure. I.e no guest 
+     accounts, anonymous ftp or external root login will be allowed,
+     only strictly necessary services will run and security patches will 
+     be installed frequently.
+  
+Deliveries and benefits to the riskmodelling project:
+  The deliveries and the benefits to the riskmodelling project include:
+  
+  1: A stable and efficient development platform for software developers.
+     Codes can be ported between platforms and functionality 
+     continually tested.
+  
+  2: Ability for members to compile and run Unix specific codes locally.
+     There is an abundance of sophisticated research models written 
+     for the Linux/Unix environment which can be utilised by staff members. 
+  
+  3: Revision control for code development, documentation and administration files.
+     
+  4: Experience with Linux systems will feed back into the organisation 
+     in cases where other systems such as a Beowulf or other local 
+     Linux servers need to be built.
+ 
+  5: Savings on software costs. Many packages used within the group
+     come at a cost for Windows but are free for Linux. An example is the 
+     Dislin graphics package for Fortran.     
+	   
+	   
+
+  
+
+
+
+
+  
+

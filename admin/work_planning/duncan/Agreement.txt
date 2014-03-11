@@ -1,0 +1,49 @@
+
+	
+TASKS:
+
+WEB applications (with Ole)
+  Survey	
+  Decision rules
+  
+  
+Python Interface to PDE solver (with Steve and Ole)
+  - Cmd line
+  - Parameter class
+  - GUI (stage 2) 
+  - Visualisation 
+
+Contribute to the development of risk modelling software.  
+  
+Mesh generation (with Chris and Ole)
+   Application
+   GUI
+
+Maintenance of Beowulf and Linux server(s) and desktops, CVS, Apache (With Ole)
+
+Advice and support on software development for GH
+
+
+Leadership:
+  Mesh generation 
+  
+Management   
+  Manage Linux environment
+
+Client Interaction
+  IT communication within the Risk Modelling group ?
+  
+Corp Contrip
+  Participate in HPF initiatives
+  Soft adv as req
+  
+  
+Learning agreement	  
+  Python Course	  
+  In-house Matlab	  
+  In-house GIS  	  
+  WEB development skills
+
+    
+  
+

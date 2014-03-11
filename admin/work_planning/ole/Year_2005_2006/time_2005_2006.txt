@@ -1,0 +1,370 @@
+June 2006
+
+1 9:30-18:00 mesh interface, recode Wollongong scene, PUG
+2 9:30-17:30 FESA meeting, wollongong, Howard, MAS results
+-
+5 9:15-17:45 Boundary polygon, PUG work, user manual, wollonggong
+6 9:30-17:30 Parallel wollong, userguide, subversion tute setup  
+7 9:15-16:00 Parallel, Trevor Dhu talk, Celebr lunch, Max (SAN)
+8 8:15-15:45 Parallel woll, IM modelling meeting, Anita talk, SDLC doc 
+9 8:45-16:00 FESA meeting, Bugs, SDLC meeting, Matt meeting
+- (long weekend)
+13 9:30-17:00 ANU meetings: Malcolm, Phil, Steve, IT, Drew, Margaret
+14 9:00-18:45 adm, NSW ltr, Nick, draft request for ongoing pos.
+15 9:15-16:15 adm, Viz training neg., FESA report
+16 9:15-17:45 Pia Waugh, Viz training invoice to Trish, Michael Carden, Jane   
+-
+19 9:30-17:30 adm, budget chats, Planning CTAC
+20 9:30-18:00 Rosh, CTAC wkshp, RAMP, Miriam (flood db), contracts 
+21 9:30-15:45 360 fb TD&MH, flood db, talk  
+22 9:30-18:00 Flood DB debugging 
+23 9:30-16:45 Security briefing, mayhem
+-
+26 9:45-18:15 CTAC planning, adm, SDLC meeting
+27 9:00-17:00 UML course 
+28 9:30-18:45 Nick Dando talk, UML course, CEO forum
+29 9:15-19:15 Adm, CTAC prep 
+30 9:15-17:45 Hamisd doc, EMA briefing, FESA meeting, CTAC prep
+-
+
+May 2006
+
+1 PTWS
+2 PTWS
+3 9:45-18:00 Adm, cyclone, Drew 3d trial 
+4 ANU
+5 9:00-18:45 Meetings, emails, Stuart Ross
+-
+8 9:15-18:30 Trevor, Jane, parallel, MAS, make_report.py 
+9 9:15-17:45 Gateway meeting, MAS practice, SDLC interview
+10 9:30-17:00 Merit interview, Arrange SDLC, Suresh call, Parallel 
+11 - Home. ANU Parallel feedback, timestepping
+12 8:30-17:30 FESA meeting, SAN, CIPMA demo
+-
+15 8:45-17:15 Jane, cyclone path, org. PUG meet, Nick, Coastal GIS abstract
+16 9:30-18:00 Planning (dmg modelling), f.T, investigate beach.py, IT, doc
+17 9:30-18:00 sww2pts, geodesy svn prop, max bott, user_manual, Bruce Newsham 
+18 13:00-17:30 pymetis, viz demo, Coastal GIS for Neil W, Beowulf bid
+19 9:30-18:45 FESA meeting, BOM (Diane and Arthur), vizlab, cyclone path prb
+-
+22 9:30-17:00 Cyclone path, IM, Nick PPR, Suresh, planning
+23 9:30-18:30 IM stuff, cleanup, parallel, planning
+24 9:15-17:45 Parallel, Nick, Trevor, stochastic study, HMM meeting,  
+25 9:15-18:00 Stoch. study, John/Clive talk, Bruce Newsham, Stoch study
+26 9:15-17:30 Stoch std, FESA meet, team brf, faulty RandomArray on cyclone
+-
+29 9:45-16:45 Getting ready for visit to ACFR
+30 - ACFR
+31 9:15-17:30 Management, read FESA draft, AUSGEO news draft,  ...
+
+
+
+
+ 
+	
+April 2006
+
+3 10:00-18:45 ATWS proposal, engage Jack and John, Rosh (DPNR)
+4 9:15-15:45 Houdini on Debian, ATWS proposal, USGS poster, Lesley
+5 9:00-17:45 Nick, fixed test, USGS poster, AGIMO, cg_solve, ls 
+6 9:00-17:00 Renato Iannella, overshoot in LS, Howard, PPR (Jane)
+7 9:15-18:00 FESA meeting, user guide online, Momsink, SMF math
+-
+10 11:00-18:00 IMP, USGS poster, get_boundary_polygon
+11 9:15-18:15 IT meeting, Nick, USGS Poster, John's slides, Jane planning
+12 10:00-17:30 boundary_poly, John's poster, IMP
+13 10:30-16:30 IMP, PUG
+- Easter
+18 - rec leave
+19 8:30-19:00 Planning, test_shallow_water (Jakeman)
+20 10:00-18:15 Jane, Max (cyclone), corporate SVN, PTWS talk, David B.
+21 8:15-16:15 FESA meeting, org PTWS trip, Howard, damage modelling
+-
+24 9:30-18:00 Movmnt rq, IDRC paper, Svn demo (Petkovic, Milligan), PTWS talk
+25 Anzac
+26 8:30-19:30 Talk, IMP, PTWS talk, Hamish, Black screen fix, plot plan
+27 9:30-15:00 Talk, IDRC paper
+28 9:15-17:15 FESA meeting, register IDRC, PTWS talk, organise trip, Howard
+-
+
+
+
+	
+March 2006
+
+1 - Barry Hamilton visit in Melbourne + RSES Presentation
+2 9:00-16:30 CEO meeting, URS meeting, Nick, Howard, Neil W slides, catch up
+3 9:00-15:30 Lynda Radke, Howard, IT problems, Stochastic study, Duncan, Nick
+-
+6 - Planning day
+7 9:00-14:30 MAS (Dunc), planning, Nick, Jane
+8 9:00-19:30 Nick, Matt, Jane (-9999 issue), Hamish, Howard, renamings, MAS 
+9 9:00-19:00 Jane, softw maint, MAS hand in, Nick sprvs, probat. report (Jane)
+10 9:00-18:00 FESA prj meeting, Con Zymaris
+-
+13 9:15-18:45 scipy Numerics, domain.statistics, Lynda, Stephen planning, Scipy
+14 9:30-17:15 Svn branch, 3 long Meetings, actions for PUG 
+15 9:30-16:15 Numpy, Jane, planning 
+16 -          sick
+17 8:45-16:15 FESA prj meeting, dem2pts testing, capital beowulf bid,  
+-
+20 - Canberra day
+21 9:15-15:30 ANU, fix of 'creep', None boundaries
+22 8:45-19:00 baldock, pia, agimo, tariq, howard, nick, duncan, jane, eclipse
+23 12:30-18:00 Nick: least_sq problem, Jane updates, percentiles
+24 9:30-18:30 Meeting, found bug in Onslow code, Geo refactoring
+-
+27 9:15-18:15 Nick, Duncan, Budget planning
+28 9:15-14:45 CTAC abstract, ODBC, Jane, prep island.py for Benfield
+29 9:30-18:30 Lots of meetings, Benfield prep.
+30 8:30-18:00 Benfield meeting about ANUGA
+31 9:15-18:15 IMP meeting, CTAC abst, MOST bdry, PUG, networking, cleanup
+-
+
+
+
+February 2006
+
+1 9:15-18:45 RRG meet, Con Z mail, Jane (output speed), Howard, suresh,...
+2 9:30-19:00 Org Hugh visit, CART wk for Macca, Jane, user manual
+3 12:30-17:00 Jane Warne, Inund. meeting, Priorities
+-
+6 9:00-17:30  PUG org., Jane Aurion, Prior plann, SVN talk prep
+7 10:00-18:45 Jane planning, Bug fixes for Sydney demo, Trevor, stored old CVS
+8 11:30-18:00 My PPR, Sydney georef, priorities, howard, Dunc (file_function)
+9 9:00-15:45 Russel Blong, some docu, polygons for Sydney
+10 10:30-17:00 Lesley, Jane, Polygons, AGO
+-
+13 8:45-17:15 Nick start, measured PC perf, docu, looked for VTK
+14 8:45-18:00 Develop contacts, Setup Nick, Bathy meeting, Sydney scenario
+15 9:00-17:30 Anuga requirements, georef, Matt, IM meeting, Howard
+16 8:45-18:30 Hugh Durrant-White and Suresh Kumar visit, Sydney
+17 8:45-18:45 Suresh, Chris P meeting, stochastic_study (start)
+-
+20 9:45-19:00 Okushiri mesh, team adm, Psych testoftest (2h), PC perf, NSW MOU
+21 9:00-19:00 Okushiri mesh, Nick, IDRC abstract, team, feedback to Jakeman 
+22 9:30-19:00 ANU (J Dennis), Howard, Jane, email crash
+23 9:30-15:45 Nick+Jane, IDRC abstract, PUG talk, Phil McFadden pres
+24 9:15-18:45 PUG meeting, stochastic
+-
+27 9:00-18:00 M.A. seminars, planning Barry H. trip, RSES talk
+28 - Barry Hamilton visit in Melbourne
+
+
+
+
+
+
+
+
+
+
+January 2006
+
+16 9:30-19:30 Jane, catching up, admin
+17 10:00-19:00 EQRM, Hosting Russel f Spiro, Hamish, reading, Suresh
+18 9:30-18:45 Anu meeting, Hamish meeting, Howard meeting, Clip.py, disk clean
+19 8:30-18:45 dem2pts (combined)
+20 8:30-19:30 Jane, set_quantity.py, test_all.py, Mary
+-
+23 8:30-18:45 ssh meeting, Jane, 25m bathy problems (Ingo)
+24 10:30-18:00 Momsink meeting, topo meeting, Hamish, ANU visit 
+25 10:00-18:30 Reading (AHD, Anuga doc), Jane (Sydney), Howard + docu work
+26 - (Australia Day)
+27 9:30-18:00 Jane, Adrian, proof SMF + Benfield rep, EQRM, CART macca, PPR 
+-
+30 9:00-17:00 Howard, Jane, IM meeeting, Adrian (referee), geospat, patrick 
+31 9:30-18:00 Fixed leaking files, Presentation to NZ delegation, geo_spat.
+ 
+
+
+December 2005
+
+1 10:00-17:00 National Awards Presentation, Paliament House
+2 9:15-15:00 L4 recr papers, Modsim adm, visitors, Ben ashman, design princ, MR
+-
+5 9:30-19:00 Hugh, Jane, Bathy meeting, admmmmm
+6 9:30-17:00 L4 adm, RATS, Modsim talk, PC refresh, 
+7 11:30-18:30 Jane, L4 adm, software inst, cleanup
+8 9:30-17:30 Adm, Arch talk, PUG meeting
+
+Modsim 12-15
+
+16 9:30-18:00 Workshop, nick
+-
+19 9:30-18:30 Coaching, meetings, Jane pyvolution demo
+20 9:30-15:00 Howard, CDWG lunch
+21 9:30-17:30 Phil, PC fixes, Duncan, Jane, adm, Claire Harris
+22 8:00-17:00 stds meeting, Sydney 2006, Adrian, Howard 
+23 10:30-15:30 Wrap up
+
+
+
+
+
+
+November 2005
+
+1 10:00-18:30 Pigram SVN, adm, VRML, caching, mv create_mesh, Trevor D
+2 10:15-17:30 Convergence study, interv qst, G+, Hugh, PUG, swollen, Drew, BB
+3 9:30-17:30  RAMP, Mark, admin, Coaching, BuildBot (Home)
+4 12:00-17:00 Hugh, Miriam, Hydro project
+-
+7 9:30-17:30 FW meeting, HECRAS data, Jim Steed (AHD), Karratha, L4 docu
+8 9:15-17:30 Files Drew/Steve, PUG, Hugh, ANU cont sent, GoogleDT, converg.
+9 9:30-16:00 PUG, Stirzaker+Shawn, 3D sww viz, Org conf 14/11/5, conv study
+10 10:00-19:00 Org. conf, Hugh, Convergence, PUG org, talk, Hugh report
+11 9:00-17:30 Geoplus finish, EQRM refactor, Conv, Will Gardner
+-
+14 7:30-19:30 Monash conference
+15 11:00-18:00 ESRI bug, SW quest, intnerv prep, Gardner, Mark L
+16 9:15-18:00 Interviews, Slava (Phil's visitor), Drew, Geoplus eval
+17 11:45-18:00 Questionnaire, Slava, Sharon 
+18 9:15-17:45 Admin, Talk, Hugh, Duncan planning
+-
+21 9:30-18:30 Ers grid values for karratha, Hugh, EQRM
+22 9:30-14:30 Adm, Stephen, talk, questionnaire meeting
+23 9:30-17:00 Redone karratha ekp, inundation database, meetings
+24 8:45-18:30 Inund db, sww2dem (asc) opt., EQRM, Neil C 
+25            Rec leave (Citizenship ceremony)
+-
+28 9:15-19:45 Jane and preparation of talk (for 30 Nov)
+29 8:45-18:00 Prep talk + dry run
+30 9:15-19:00 GA Talk, meetings, ANU purch order, software list, trial svn
+
+  
+October 2005
+
+4 10:00-16:30 Karratha export, Hugh/Lesley, Modsim paper, Ingo, Pyvolution
+5 10:30-18:00 FESA Recrmnt adm, seminar, Mary, sww2dem, Hamish, Pigram, Matt
+6 9:30-19:00 Karratha exp, Mary, bounding box, Hug tassell, Ocken (Spiro), rec
+7 9:15-17:15 Karratha, rec, Onno, Hugh, Mary's prg
+-
+10 9:15-17:00 file_function, ANU (Viz)
+11 9:00-17:15 Duncan, Grad meeting, Hugh, karratha gauges/ Neil 
+12 9:30-17:30 Recruitment forms, Karratha gauges, RAMP meeting, RSES (Hugh)   
+13 9:15-18:30 Karratha (gauges, moment), Style guides, Duncan, moved poly, K50
+14 8:30-17:45 Quantity expressions, karratha50m, grad prop, parsing, clean
+-
+17 9:15-18:15 Hugh Tassel, Recruitment, __init__.py, Duncan (LS), Jane
+18 9:45-18:00 Vizlab meeting, Buildbots, Matt, Stephen
+19 9:30-17:30 Karratha cross section, PUG meeting, Duncan PPR
+20 9:00-17:45 Howard, style guide, Karratha refine, PUG minutes, questionn.
+21 9:30-17:00 Duncan, IM response, Karratha refined, team brief, intranet
+-
+24 9:45-17:00 Rec forms, prep ANU lecture, Called Jane, ANU DCS lecture 
+25 9:30-17:00 ANU contract, stylguid, dgal nom, L4 shortl, Hugh, IM, SW Quest 
+26 9:45-18:30 L4 recrt, DGAL talk, G+, OSS, Ben Ashman, OSS info, L4 quest
+27 8:30-19:00 Geo+ simulation
+28 8:00-18:00 Geo+ simulation, Karratha, L4 rec, Jane, Hugh, read a paper
+-
+31 10:30-18:00 McFadden, Hugh Tassel, David Robinson, follow up adm, Brian B.
+
+
+September 2005
+
+1 10:00-18:45 Modsim Paper, Ingo (data planning), ferret2sww, PUG, TRAC talk
+2 11:00-18:00 TRAC meeting and talk, Trev (Python), BMRC and Modsim papers 
+-
+5  9:30-18:00 Planned PUG meeting, Geoplus, TRIM
+6 10:15-15:30 Hugh Tassel supervision, PUG, Most elevation
+7  9:30-16:30 Trevor, Duncan, MOST_boundary (Karratha), Jane Sexton
+8  9:30-18:30 Geoplus pres, Code cleanup, laptop, tried to install matplotlib
+9  9:30-18:00 Dr. Dimri, Geo+, PUG Meeting, Ermapper(with Trev)
+-
+12 9:30-18:45 Karratha 100m, BMRC reference, PUG minutes (Duncan), NFS  
+13 8:40-15:00 Karratha, boundary_stats, ModSIM paper 
+14 8:45-18:30 MODSIM paper, IT letter, Pia Waugh, Karratha !, caching
+15 8:30-18:00 Karratha2ERmapper, G+, Karratha (friction), managing
+16 9:00-18:30 MODSIM paper, G+, TRIM, karratha, Beer
+-
+19 9:15-15:45 G+ slides, Meetings, Karratha new boundary, G+ coaching 
+20 9:30-18:30 ANU (Kat, Steve, Lutz), John Taylor talk, Karratha, TRAC
+21 11:00-18:30  Nick Bartzis, Duncan planning, ASI, Karratha 4m tide, Mary 
+22 9:30-18:30 Meetings with SGI and Lutz Grosz
+23 9:00-17:30 Dampier, Bill Mitchell, Dunc PPR, Tim Churches, ANU HI contract
+-
+26 9:15-17:00 Karratha, Team briefing, G+, Input to Chris P, David 
+27 9:45-17:30 Grad Filming, Karratha, MHWS, Hugh Tassell
+28 9:30-18:00 David/Trevor talk, Karratha Chart Datum + regions, Geoplus!!
+29 9:55-16:00 Duncan/Adrian Dryrun, Karratha, ANU contract, Drew
+30 9:30-16:00 Duncan, Karratha export, Recruitment, Matt, ANU contract
+- (long weekend)
+
+
+ 
+
+
+
+ 
+
+ 
+
+
+August 2005
+1 8:45-18:00 Bathy-DEM meeting, interpolation, G+, Interpolation_function 
+2 9:30-18:00 Interpolation_function, file_boundaries, LWRU2, clean up
+3 11:45-16:00 G+ (12:30-14:00), G+ Minutes, LWRU2 (discovered -z)
+4 9:15-18:30 LWRU2 validation - first results (very nice)!
+5 9:15-16:00 Valid, Tamiru, more runs
+-
+8 9:30-18:00 Valid (xmom play ), Open day, API thoughts
+9 9:00-17:00 GEMD planning day
+10 11:00-18:00 Successful validation (lwru2)
+11 10:30-17:30 New mesh for lwru2, Scott McTaggart, OSS guide
+12 9:45-15:45 Karatha meeting, Java SW dev, Macca, Okushiri
+-
+15 9:45-18:30 Lwru2 slides, swollen bug, Krishna, Macca, cleanup 
+16 9:00-17:00 Acorn speaking course
+17 9:30-18:30 Emails, Who is using PGI, Mary/Damo talk, CDWG blurbs, lwru2 mov
+18 9:30-19:00 Okushiri movies, Matt, G+ meeting, Adrian, Macca, G+ ppt
+19 10:00-18:00 G+, Open day, svn migration, Max Bott
+- (Open day weekend)
+22 9:45-18:00 Math talk abstract, lwru movies, Karratha, caching
+23 10:30-17:30 Firewire disk, Svn recovery, lwru2, caching, imagery
+24 9:40-18:30 Caching, quantity.set_values, operator overloading, RAMP  
+25 9:15-18:00 ANU Talk + meetings + wine
+26 9:15-17:00 ANU talk plus RRG day
+-
+29 9:30-18:00 ANU MSI talk, Python (w Krishna), PUG emails, John, cleanup 
+30 9:30-18:00 SVN Admin, WinMg (helpdesk), Phil/Dave mt, Job ads, Karratha, Fei
+31 9:30-18:30 (meeeetings); Karratha, SVN AnuGA (Dhu), Chris P., Geo+, job ads 
+
+
+
+
+
+July 2005
+
+1 10:30-17:00 Validation meeting, Andrew, parallel pyvolution, PA (4/5)
+-
+4 10:00-16:00 PA, Python advice (Nick), Looked into TRAC again
+5  9:00-16:00 Adrian, Meeting with Barry (FESA WA)
+6 10:00-17:00 Nick, moved files nautilus -> new machine, parallelism, AGIMO
+7 10:00-18:00 Disk cleanup, parallel, new nautilus/cvs, seq opt review (svn)  
+8 10:00-17:00 PA, Matt Hardy, tsunami hazard planning, swollen georef
+-
+11 10:15-18:30 Parallel, Pigram G+ lunch, PA    
+12 12:30-18:30 Swollen + Parallel 
+13 10:30-18:00 AGIMO, ANU: Tamiru, Stephen, Vizlab, ACCESS
+14 9:00-18:30 Parallel, Planned Suresh trip, Coach Nick Brown, GEMD plans, PA
+15 9:00-15:00 Parallel, Macca, PA, Prep Sydney Talk
+-
+18 9:30-18:30 Outlook problems, IT help, Bob, Sydney talk, Macca
+19 - Visited Suresh Kumar at ACFR Uni Sydney
+20 9:30-18:30 Macca, Matt, LWRU1 setup
+21 - Geoplus
+22 8:45-18:00 Nick, Div briefing, Adrian, Macca, Mora letter, Interpolation 
+-
+25 9:45-18:00 'Lost mass bug' investigated/fixed. G+/RAMP meetings, Macca
+26 9:30-18:00 Brian Burbidge, UNESCAP report, John S, QA, undid CZs svn stuff 
+27 9:45-18:00 Job ad inquiries, Bob, Kathy, TRAC w Kat (ANU), Stephen 
+28 9:15-18:00 Minutes, Macca, Adrian (ls mem), Phil C, Collect. Resour, lwru2
+29 9:15-15:45 Adrian (ls mem), Matt, BRMC abstract, LWRU2 setup
+-
+
+
+
+   
+
+

@@ -1,0 +1,9 @@
+# cpt palette created for use by convert_xyz2kml.py
+# Grading between green (low) and red (high)
+#COLOR_MODEL = RGB
+#
+0.0   0 255 0 0.5 255 255 0 L
+0.5 255 255 0 1.0 255   0 0 U
+B 0 0 0
+F 255 255 255
+N 128 128 128

@@ -1,0 +1,3 @@
+#Link fortran file into Python
+
+f2py -c -m hello --fcompiler=Gnu hello.f

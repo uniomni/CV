@@ -1,0 +1,106 @@
+
+
+	
+	
+Script pmesh demo with Duncan and give demo to John and Matt
+Done	
+	
+--------------------------------------------	
+	
+Turn 'hull.exe' into a proper C-extension
+
+1: Get it from downloads area
+2: Compile it
+3: Write C-wrapper
+4: Modify pmesh to use it.
+
+	
+	
+	
+===============2003===============	
+
+Prepare 5 min talk 25 Aug:
+  - ICIAM, visualisations
+  - Grid stuff (GRID wkshp + ICIAM)	
+	
+Write take home message from Grid workshop for Lesley.
+Reuse for talk 25 Aug	
+	
+	
+Read papers about wavelet signatures
+
+Timeseries study:
+  Use catchment data (XLS)
+  TKinter GUI
+  Seismic animation
+	IDEAS:
+	%Maybe use C-routine 'has new data arrived?'  
+	%Show graphs from left to right
+	#Replay arbitrary events
+	#Add time scale
+	#check calibration
+	#multiple stations
+	cycle through stations
+	#Station name
+	#Show 'real time' per block
+	%color code w scale
+	Use horizontal channels....
+	Have a 24h window
+	
+	Internal Use:
+		Station availability. Array of meters (ambitious)
+		List of stations with last update time + color code for age
+		Histogram.
+		
+	Media use:
+		Replay earthquake.
+		Control speed.
+		Arbitray starting point, arbitrary station.
+		Colours ?	
+		Separate controlling window (optional)
+		
+	Foyer:
+		Like media, except 'real' time	
+		
+  
+Storm surge model:
+  Read Steve and Chris report
+  port Matlab version to Python
+
+  
+Advertise Modeller/Statitistian (by eo Aug)
+
+
+ 
+
+Later: 
+-------- 
+
+Teaching material for SUT: Open-Source, Timings, 1D FFT, 2D FFT, Amdahl, Speedup, efficiency etc, Linux 
+
+ICIAM talk: SG (Howards graph), parallel algorithm (address jochens observation) + Pypar (from DCS talk) 
+
+
+
+Done:
+---------
+
+DCS talk: OS, Beowulf, Pypar 
+Abstract for talk 
+
+Wavelet transforms 
+
+Fill in form for Chris Pigram, OK
+Beowulf talk
+  - abstract, OK
+  - talk, OK (wednesday)
+  
+Ticket to Thailand
+Check that John put in the leave form.
+
+Ask for leave 15/9 through Xmas. Check whether Xmas is paid for. 
+  
+Organise Andre Zerger Presentation  !  
+
+Beowulf section in annual report.
+	Need Phil's paragraph.

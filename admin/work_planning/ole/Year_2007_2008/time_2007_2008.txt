@@ -1,0 +1,316 @@
+June
+
+2 10:00-18:30 PL's meeting, Hamish, Jane, MRT, Rudy
+3 10:00-18:45 Adm, New linux PC, KML, Rudy, Miriam, Jane
+4 9:30-17:30 John Jakeman, NHO steering, KML, Subversion setup, Miriam
+5 10:00-16:00 PTHA review, Rudy (culverts), mails, KML, ATWS panel
+6 - Rec leave
+-	
+9 - public holiday
+10 10:00-19:00 Project planning, PL's, UNESCO ltr, Ubuntu
+11 9:15-13:30 Network problem, Stephen Sagar talk, SICK
+12 11:00-18:15 MilKlub, IT issues, New Nautilus, timings 
+13 9:45-16:45 Jakeman - Boxing Day validation work
+-
+16 10:15-17:15 S. Lloyd, Milevski, Rudy (Culv'ts, FMA), Dunc, diskspace, Jane
+17 9:45-18:45 ACSI 33, ATWS panel, EMA projects, PTHA KML, Trev, Jane
+18 10:00-19:00 PTHA KML, Carbon dating contract, deaggregations
+19 9:45-17:15 Amy, PPR notes, Carbon Dating contract, Gershon, PTHA KML
+20 9:30-18:30 Carbon contract, Nils Goseberg, KML, microfossil, Jane
+-
+23 8:00-16:30 PTHA report (GE), Tsunami validat meet, KML, Kristy
+24 9:45-18:00 PTHA report, OH&S, NHIP meeting, PPRs, Ted Rigby
+25 9:30-20:00 Culvert flow development with Rudy
+26 9:30-16:45 PTHA, h-limiter retirement, debris flows, Project planning.
+27 - Rec leave
+-
+30 9:45-18:45 Joy, ANUGA (culv), Tony (geonet), Jane PPR, Artic meet, JJ
+
+	
+May
+
+1 9:00-16:45 Ben Evans, Kristy, Herve, IM, Graeme Smart (NIWA)
+2 9:45-17:30 Kristy, ANU contract, pypar, haz map, ANUGA beowulf, worksh invit
+-
+5-9: ANU
+-
+12 9:00-18:30 Tsunami validat meet, Heike Struckm., Berriman minutes, catch up
+13 14:00-18:30 Culvert flows, use_centroid_velocities roll back, Duncan, Jane
+14 9:00-16:00 EMA prop, ANUGA, Amy, Adelaide aquittal, ANUGA paper
+15 10:00-18:00 Leslie, Rudy (rainfall), IP tracking, Amy, Miriam, EMA proposal
+16 9:15-18:00 CIPMA, culverts, meetings, Herve, J. paper
+-
+19 10:15-18:15 ANUGA paper, CSIRO HQ, S Lloyd, EMA proposals, Herve, Kristy
+20 9:30-18:00 Leharne, Mark Peterson, Ted Rigby, EMA flood proposal
+21 9:30-18:15 Hengkek, EMA prop, Trevor, draft to Nils G, ANUGA paper, Jane 
+22 10:30-16:00 EMA flood prop, paper, Mark Petersen talk, Google Earth, adm
+- Rec leave
+-
+26 9:30-18:00 Tsunami validat meet, S. Lloyd, ANU cntrcts, Spiro, ANUGA paper
+27 9:30-18:00 ATWS recruitment, NHIP meeting, KML, management
+28 9:30-18:15 Trev, Miriam, KML, GeoPDF, Chris P, PUG, KML
+29 13:00-18:00 KML, Trev, Woodcock - work dinner
+30 9:30-18:00 Acting PL, Amy work plan, Miriam paper, MRT, Peter Harris  
+-
+
+
+April
+
+1 9:45-18:45 NHIP meeting, Miriam, Rudy, planning
+2 9:30-17:45 Rudy ltr, Hamish, Struckmeyer, Trev, Amy dryrun, talk
+3 9:00-16:30 Foundations of Open Technology and Digital Knowledge
+4 SICK
+-
+7 10:00-19:00 L5, Stephen Lloyd, Kent Lindquist, ANUGA requests
+8 11:00-18:30 ATWS developers interviews, AMY, Duncan, S. Lloyd
+9 8:30-18:45 Leslie Wyborn, Amy's talk, Nariman, ATWS dev report, KML haz map
+10 10:15-16:15 ATWS work, splines, prep Adelaide trip, Tony Hunter, Amy
+11 9:00-17:45 Tsunami validation meeting, John J, prep Adelaide trip 
+-
+14-18 Water Down Under 2008
+-
+21 9:30-18:30 Catch up, Kristy, update svn repos, emails
+22 10:00-18:00 ANUGA lecture, Miriam, Matt&Jane, Dale (WFS), set_values, Spiro
+23 9:15-18:00 Journal paper, Allana, Chris Pigram NCI, S Lloyd
+24 9:15-16:30 ATWS devs, CFL to ted, Jane, KML hazard map, Miriam, adm
+25 ANZAC
+-
+28 9:00-17:00 Val. meet., ATWS dev, KML hz upd, ANUGA wkshp pln, Miriam, Trev 
+29 9:15-18:00 ANUGA wkshop, Kriton, Phil, ANU contr, Hughes, boundary points
+30 9:15-18:00 Bdry points, contract, Budget work, planning, tickets, Amy, ...
+
+
+March
+3 8:30-18:30 L5 interviews and planning, Miriam's work program
+4 9:30-18:00 L5 interviews, finished IP tracking
+5 9:45-18:45 Trevor, NHO steering, Jakeman, Houdini hand-over, adm
+6 9:00-15:00 L5 interviews
+7 Rec Leave
+- 
+10 Public holiday
+11 9:45-19:15 Nick's hand over and farewell, Petar Milevsky, Jane planning
+12 10:00-18:00 Review (PC), Milevsky, Python & Antilope, Tsunami validation
+13 9:30-18:30 Planning: Miriam & Monica, Questacon tsunami, Jane
+14 9:00 L5 interviews, milevsky, HPC b'ness analyst, Kristy, CEO forum, cleanup
+-
+17 10:30-18:30 Leharne's first day, HPC analysis (Astrid), Schedule, Planning
+18 10:00-18:30 Miriam/Bob, Tsunami and NTP talks, tutorial draft, tsu db prop
+19 9:30-18:00 ANU (new 2 order limiters), L5 panel, jane, rudy, herve, ....
+20 9:15-17:00 L5 interviews, ANUGA viewer maintenance
+21 EASTER
+-
+25 9:30-19:00 New viewer, Flood modelling planning, Amy Makran application 
+26 9:15-17:45 adm, Prof Tajvidi, Planning, jakeman, Restr rainfall (busy day)
+27 9:30-17:00 GeoPLUS reunion
+28 9:30-18:00 lots of adm, Reza meeting, Jane GeoPLUS challenge
+-
+31 10:30-17:45 Amy talk, Rudy, AMEX, IM ANUGA support proposal, adm, ANUGA
+
+	
+Feb
+
+4 9:30-18:30 Miriam+Amy MA, Mark Leonard planning talk
+5 9:30-16:30 Miriam+Amy MA, Cadet Lunch, Jane, L5 Panel, Points for AuScope
+6 9:15-18:45 HPC recomms, MiriamAmy MA, Linux meeting, Panel brief, 360 Jane 
+7 9:30-18:45 DB pp appl to HR, Miriam+Amy MA, Trev, XML object model, John
+8 9:30-18:15  Malcolm Sambridge, Duncan, XML + IP tracking.
+-
+11 9:30-18:45 ANU talk Jeff Jonas (IBM), MISG meeting, IP tracking
+12 10:45-17:30 Duncan slides, IP tracking, Dell
+13 10:00-18:00 Level 5 applications first read, ANUGA publication, TIMOC
+14 9:00-17:00 PalSed meeting, EMA award, L5 Panel meeting
+15 Rec Leave
+-
+18 9:45-19:00 L5 panel, reviews, IP tracking, CRC 64 bit compliance
+19 9:45-19:00 L5 panel, MISG+green's func, M. Hughes, IP tracking
+20 9:30-18:00 Trevor, Jane stratification talk, Tom Baldock, L5 panel
+21 9:30-19:00 BoM Tsunami science, L5 panel 
+22 8:30-18:30 L5 interviews
+-
+25 9:00-17:30 L5 interviews
+26 9:15-18:00 PMD/GEMD joint activities, other meetings, package_path,
+27 9:00-16:30 URS-ANUGA coupling, debugging transmissive momentum bdry
+28 10:45-18:45 Milevsky (Wollongong), IT apprentices, Barry, adm
+29 9:00-18:00 L5 interviews, EMA award drinks
+ 
+
+
+
+
+
+
+	
+	
+January
+
+7 9:40-19:00 Emails, Nick, ANUSF, Matt H, Lloyd & Godfrey, Shellharbour, PC 
+8 11:00-18:15 Prep Shellharbour briefing for John, emails and adm
+9 10:00-18:45 Trev plan, debug w Dunc, Jane, Shellharb briefing, DB PPR, Jane 
+10 9:15-17:15 Trev+Jane, Miriam abstract, Field_boundary ticket:243, adm
+11 9:30-18:30 TRMA meeting, Nick, IP tracking, re-planning 
+-
+14 10:15-21:30 Stephen, Monica, Dale slid, debug w Mark, Bob, caching
+15 9:15-21:30 Vizl, DE Shaw, Spiro, Ref Nick, MISG w Jane, anuga-users, IP trk
+16 10:00-18:00 XML, Cadets, IP tracking, Meeting with Rosh & Stephen (AH)
+17 15:00-19:30 Jane, Brendan Nilon, IP tracking, Jane + Trev
+18 10:00-16:30 Michael Hughes, CRC32, Jane, Dunc, python-dev   
+-
+21 10:00-19:15 IP tracking, Miriam, David PP, linux survey, ARC prop
+22 10:00-18:30 IP trck, Jane, Dale's ARC prop, Leslie!, Geoff Hoynes, 
+23 10:00-18:30 Adm, Leslie, ARC, Review Miriam's paper, ANUSF (CPU hours)
+24 10:45-19:15 Heike Struckmeyer (Beowulf), Linux survey (Paul), EMA, Jane
+25 9:15-18:15 TRMA meet, Cadets, Kristy lnch, XML, Dunc PPA, HPC surv, Trev
+-
+REC LEAVE
+ 
+
+	
+December
+
+2 9:15-18:15 Data IP release proc, MR Wollongong, Nick, TRMA scoping, PPRs
+3 9:45-18:45 PPRs, ANUSF+Phil, TRMA Scoping, IT, IP, abstracts, TRIM
+4 10:00-18:00 Baldock report, Nick PPR, IP tracking, Plan Shellharbour trip 
+5 8:45-20:15 Shellharbour City Council
+6 9:30-15:30 Jakeman talk, Amy funding, GEMD xmas party, emails
+-
+10 10:00-17:45 Duncan, Amy, Jane, Cadets (gneiss access), QCCC, PPR, NGDC KML
+11 9:45-17:45 Google, IBM, Cadets, PPR, Rosh
+12 9:15-18:00 Trevor, Black Sunday, NH online, IM, ATWS $ (AMY), Shark Bay
+13 11:00-18:00 PPRs, MITS, Rosh, Cadets IT
+14 9:30-       AGM
+-
+17 Rec Leave
+18 9:30-18:00 Questacon visit, PPR, Jane, Cadet review, Marnie Rose TRAC, adm 
+19 9:15-18:30 Leslie, Jonno review, Kriton (out 3h Wiggles), AMY ppr, cleanup
+20 Rec Leave (Google)
+21 9:00-17:30 Miriam, Duncan, Cadets, My PPR, Miriam (Ganoud), TJ, DB, adm.
+-
+24 10:30-16:30 Trev EOY meeting, Rudy, Cadets, MilKlub, Clean-out
+- Xmas
+
+
+	
+November
+
+1 9:30-14:00 New viewer, ANUGA gridline question, Lunch with Stephen Roberts
+2 9:30-17:30 TRMA meeting, Grad movie, ANUGA viewer V2, Trevor, Jane
+-
+5 9:15-18:30 ANUGA release & support, NGDC mail, Geo+ nomination, ticket:205
+6 Public Holiday
+7 9:45-18:45 anuga-user support, AMY, chase oraprod issues, Tsunami DB chats 
+8 9:30-18:00 Amy, Trev+David - TRMA, Nick, Tsunami DB, Kyanne's farewell, cron
+9 11:00-18:15 ANUGA admin, Milklub, Geo+ form, Amy, Trev, tight_slope_limiters 
+-
+12 10:00-17:30 pixel_test, tight_slope_limiters, ATWS SVN repos, compile
+13 9:30-18:30 EDM contract (ph), tight SL stability work, pixel registration 
+14 10:00-18:00 Froude number idea. Ian Smith talk, Trevor catch up
+15 10:00-18:00 Froude number idea!, NGDC, adm...
+16 9:00-18:00 TRMA meeting, Richard, fitting speed, balanced_lims, release 
+-
+19 9:00-19:15 Trial af speed-limited momentum, MITS, Cadet start, JATWS DSS
+20 10:15-18:00 Trial and mail to SR, adm, PUG, Rudy
+21 10:00-17:30 Amy meeting, Duncan+Jane meetings, CTAC06 review, adm  
+22 9:30-16:15  APS work - Chris Moscinoni, ANU, adm
+23 - Rec leave
+-
+26 9:15-17:30 Jane, APSEA award letters, Miriam, GEMD briefing, Dunbar, MISG 
+27 8:30-17:30 Rudy, break 3h, NHIP activity leaders, Jane, Duncan     
+28 9:30-17:00 Trevor, Cadets ANU, NHIP meeting, Jane
+29 10:00-19:15 MISG, BoM warnings, TRMA scoping, Michael Hughes, IP process
+30 9:15-18:00 TRMA meeting, TRAC tickets, Mark Pittard, Rudy, adm
+-
+
+
+October
+
+26 10:00-18:30 Catch up, adm, Ted&Rudy
+-
+29 8:00-17:45 Ted-Rudi paper, Duncan, S. Lloyd (G.E.E.), Paleo rep, mails, Jane
+30 10:00-18:45 GEE case, FESA CRA, TRMA scoping, Code cleanup, adm
+31 10:00-16:15 TRMA scop, LEP prop, Jane MISG, Miriam PPR, mng, GA web study
+	
+September
+
+3 9:45-18:30 Workshop follow up, Culvert flow prototype
+4 10:00-17:45 Jane, Miriam, Nick, Rudy culvert dev, monitor q'ties, TRMA scop
+5 9:45-18:00 Jane, culvert dev, monitor extrema for quanties 
+6 10:00-18:45 Testing of extrema, Belinda, dry cell limiters, PUG
+7 9:15-17:45 TRMA, Trev+Chris Moore, TRMA scoping, Bridge IT feedback
+-
+10 10:00-18:30 ANUGA work, NHIP act leaders meeting, convergence, creep	
+11 9:45-18:30 Optimisations 
+12 9:15-17:45 Optimisations, Release 4733
+13 9:15-16:00 Stephen, MilKlub, Rudy, Geo+
+- Rec leave
+17 9:00-16:30 Data from Parida, CA quest, Energy for Culvert flows, Will Power 
+18 14:00-18:30 Adm, wrapping up
+19 10:30-18:30 DSD talk, ANGUA paper, TRMA scoping, ANUGA viewer
+- Rec leave until 25th October
+
+	
+August
+
+1 AOGS 2007
+2 AOGS 2007
+3 AOGS 2007
+-
+6 11:30-18:00 catch up, issue AOGS notes
+7 10:00-18:30 AOGS notes, David, Amy, Miriam, contacts  
+8 8:00-19:15 Google, Wrote AOGS trip presentation, TRMA scoping, AMY+TREV
+9 9:00-18:00 IOC commitmentns, AOGS trip presentation, Bridge IT review, adm
+10 9:30-17:45 TRMA meeting, NEXIS, AOGS aquit and rep | Read Baldock paper, adm
+-
+13 9:30-18:30 BMRC mr, AMEX, Bob sem, IMP planning, Tsunami Scoping, Jane
+14 10:15-18:30 AOGS contcts, NHIP leader's, BMRC talk, Amy PPR&minute, David
+15 8:00-18:45 ATWS Science Meeting at BMRC.
+16 9:15-15:45 PPR, MITS (2h), Satake July 17 paper, Parida, GNS MoU, ASI, 
+17 9:30-18:15 Adm, AOGS CRIEPI contact, BMRC T1, Amy, Tsunami Scoping, Nick 
+-
+20 10:30-19:30 Dunc+Nick PPRs, flux limiter revisited
+21 9:30-18:30 Rudy van Drie and Ted Rigby
+22 9:30-18:00 PC dead, Trev, SPOT, ANUGA paper, Nick ref, flux lim commit
+23 10:00-18:30 Testing, edmstudio, optimisation and cleanup
+24 8:30-15:30 Google, TRMA, flux, TRMA scoping
+-
+27 Leave
+28 9:15-18:15 Dry-cell & other optimisations, Jane/Phil/Mons (comms issue)
+29 9:15-18:00 Inv 1st o mom lim, prep TRMA worksh, Toshi/MS talk, Macriv mesh
+30 9:00-18:00 Tsunami Risk Modelling Workshop        
+31 9:00-17:00 Tsunami Risk Modelling Workshop        
+-
+
+	
+July
+
+2 9:45-18:15 AOGS MR sent, FESA rep, shark bay (polygons + blocks), PPR
+3 9:45-18:30 Shark bay, New GIS solutions, pypar release
+4 9:30-19:00 GAV data, MITS meeting, shark bay (bdry poly), adm
+5 9:15-18:15 search_functions, FESA report, shark bay
+6 9:30-17:45 Nexis, KML, Duncan fit alg, Trevor, GEO+ eval, shark Bay
+-
+9 9:30-17:30 Shark Bay, AOGS 2007, Probation report (Jane), PPRs, adm
+10 10:00-15:30 Shark bay, Jane, Miriam, My PPR EOY
+11 10:00-18:30 Grads, Shark Bay, Duncan PPR, DEM questionnaire, Jane
+12 9:30-18:00 S bay freq swp, Jane prob/PPR, Jnr paper init, My PPR, KML
+13 9:45-19:00 Tsunami physics, shark bay, Rob Bell, Trevor
+-
+16 10:00-18:30 Shark Bay, National Elevation Data Framework, adm
+17 9:30-17:30  Shark bay (sweeps), KML - show and tell
+18 10:00-19:00 Shark Bay discussions, Geoff Crane, Eclipse, Miriam PPR
+19 9:30-16:30 Silvio, Shannon (EMA), grad present., PPRs, shark bay, pypar
+20 REC LEAVE
+-
+23 9:30-17:30 Ted Rigby code, ANU Audit, KML minutes, AMY 6/7 PPR, AOGS prep
+24 10:00-18:00 AOGS talks, Lex Nielsen, Ted Rigby, PPR 6/7 (Amy, Nick)
+25 9:45-17:15 Nick PPR and planning, AOGS slides, Ted/Rudy/Lex, adm
+26 9:15-15:30 Beijing abstract, Sandberg, Alla Metlenko, Trev PPR,  
+27 9:15-15:00 Coord meeting, getting ready for AOGS + adm
+-
+30 AOGS 2007
+31 AOGS 2007
+
+
+
+
+
+ 

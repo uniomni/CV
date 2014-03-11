@@ -1,0 +1,10 @@
+Duncans Python Howto
+
+___________________________________
+Qu) FIND A KEYS IN A DICTIONARY, GIVEN THE VALUE
+
+A)  
+i = tel.values().index(value)
+key = tel.keys()[i]
+    
+  

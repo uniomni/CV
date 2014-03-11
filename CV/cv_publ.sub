@@ -1,0 +1,257 @@
+\begin{itemize}
+
+\item{\it Development of python-FALL3D: a modified procedure for modelling volcanic ash dispersal in the Asia-Pacific region}.
+Bear-Crozier, A.N., Kartadinata, N., Heriwaseso, A and Nielsen, O (2012).
+Natural Hazards, Vol 64 (1), pp. 821-838.
+%Journal of the International Society for the Prevention and Mitigation of Natural Hazards 2012.
+%DOI 10.1007/s11069-012-0273-7
+
+
+\item {\it Towards spatially distributed quantitative assessment of tsunami inundation
+models}.
+Jakeman, J. D., Nielsen, O.M., Van Putten, K. Mleczko, R., Burbidge, D. and Horspool, N.
+Ocean Dynamics 2010, DOI 10.1007/s10236-010-0312-4
+
+%Link to paper citing my paper on parallel wavelets:
+%A quadtree dictionary approach to multi-resolution compression
+%http://portal.acm.org/citation.cfm?id=986537.986541
+
+
+%From Adrian:
+%Nielsen, O., S. Roberts, D. Gray, A. McPherson and A. Hitchman, 2005, Hydrodynamic modelling of coastal inundation, In Zerger, A. and R.M. Argent (eds), MODSIM 2005 International Congress on Modelling and Simulation. Modelling and Simulation Society of Australia and New Zealand, 518-523.
+%
+%
+%
+%Nielsen, O. and D. Gray, 2005, Hydrodynamic inundation modelling for disaster risk management, In Hollis, A. (ed), Hydrometeorological applications of weather and climate modelling, extended abstracts of presentations at the seventeenth annual BMRC modelling workshop, 3-6 October 2005, Bureau of Meteorology Research Centre, BMRC Research Report 111, 63-65.
+%
+%
+%
+%Hitchman, A. and O. Nielsen, 2005, Numerical simulation of coastal inundation, In Hollis, A. (ed), Hydrometeorological applications of weather and climate modelling, extended abstracts of presentations at the seventeenth annual BMRC modelling workshop, 3-6 October 2005, Bureau of Meteorology Research Centre, BMRC Research Report 111, 67-68.
+
+\item {\it Modelling answers tsunami questions}.
+Ole Nielsen, Jane Sexton, Duncan Gray and Nick Bartzis.
+AusGeo News  September 2006  Issue No. 83.\\
+http://www.ga.gov.au/ausgeonews/ausgeonews200609/modelling.jsp
+
+\item {\it Parallelisation of a finite volume method for
+hydrodynamic inundation modelling}. S. G. Roberts, L. Stals and O. M. Nielsen.
+Proceedings of CTAC'06 - The 13th Biennial Computational Techniques and Applications Conference, 2-5 July 2006, ANZIAM Journal, Vol 48.\\
+http://anziamj.austms.org.au/ojs/index.php/ANZIAMJ/article/view/153
+
+%BIBTEX REFERENCE
+%@inProceedings{Roberts2007,
+%author = "S. G. Roberts
+% and L. Stals
+% and O. M. Nielsen",
+%title = "Parallelisation of a finite volume method for hydrodynamic inundation modelling",
+%series = "ANZIAM J.",
+%volume = "48",
+%pages = "C558--C572",
+%year = 2007,
+%booktitle = " Proceedings of the 13th Biennial Computational Techniques and Applications Conference, CTAC-2006",
+%editor = "Wayne Read  and A. J. Roberts",
+%month = nov,
+%note = "\url {http://anziamj.austms.org.au/ojs/index.php/ANZIAMJ/article/view/153} [November 27, 2007]",
+%keywords = "",
+%subjclass = "",
+%}
+
+
+
+
+\item {\it Hydrodynamic modelling of coastal inundation}.
+Nielsen, O., S. Roberts, D. Gray, A. McPherson and A. Hitchman
+In Zerger, A. and Argent, R.M. (eds) MODSIM 2005 International Congress on
+Modelling and Simulation. Modelling and Simulation Society of Australia and
+New Zealand, December 2005, pp. 518-523. ISBN: 0-9758400-2-9.\\
+http://www.mssanz.org.au/modsim05/papers/nielsen.pdf
+
+
+\item {\it Computer Architecture and Organization}.
+	Chapter in Encyclopedia of Biostatistics, second edition.
+	Ole M. Nielsen,
+	Wiley InterScience, 2005
+
+\item {\it Quantifying Vulnerability:
+        A methodology for those at risk to natural hazards}.
+        A. Dwyer, C. Zoppou, O. Nielsen, S. Day, S. Roberts.
+	International Journal of Mass Emergencies and Disasters (In review)
+
+%\item {\it Multi-hazard Risk Analysis - Cairns Case Study}.
+%	A. Sanabria, D. Gray, O. Nielsen, T. Dhu, D. Robinson.
+%	In preparation
+
+%\item {\it Measuring Risk: A new methodology for those at risk
+%	to natural hazards}.
+%        A. Dwyer, C. Zoppou, O. Nielsen, S. Day, S. Roberts.
+%	Geoscience Australia Technical Record 2004/14, Canberra
+
+\item {\it An Iterative Approach to Determining the Length of
+	the Longest Common Subsequence of Two Strings}.
+	Hilary S  Booth, Ole M Nielsen, Susan R Wilson.
+        Methodology And Computing In Applied Probability 6 (4): 401-421,
+	Kluwer Press December 2004
+
+%\item {\it Symmetry and Fractal-like Structures in the Statistics of
+%	Sequence Comparison}.
+%	Hilary S  Booth, Shev F MacNamara, Ole M Nielsen, Susan R Wilson.
+%        Submitted to
+%        Journal of Computational Biology \& Proceedings of RECOMB2003
+%        (Berlin April 2003)
+
+\item {\it Multidimensional Smoothing Using Hyperbolic Interpolatory Wavelets}.
+      Markus Hegland, Ole M. Nielsen and Zuowei Shen,
+      Electronic Transactions on Numerical Analysis 17:168-180, 2004.
+
+
+\item {\it Parallelisation of Sparse Grids for Large Scale Data Analysis}.
+	Jochen Garcke, Markus Hegland and Ole Nielsen.
+	In P.M.A. Sloot, D. Abrahamson, A. Bogdanov, J. Dongarra,
+	and J Gorbachev, editors,
+	Computational Science - ICCS 2003, volume 2659 of
+	Springer Lecture Notes in
+	Computer Science, pages 683-692, 2003.
+
+
+%\item {\it A Scalable Parallel FEM Surface Fitting Algorithm for Data Mining}.
+%      Peter Christen, Markus Hegland, Stephen Roberts Ole M. Nielsen and
+%      Irfan Altas.
+%      Submitted to the International Workshop on Mining Spatial and
+%      Temporal Data (at the PAKDD-2001 Conference), Hong Kong, April 2001.
+%
+%\item {\it Towards a Parallel Data Mining Toolbox}.
+%      Peter Christen, Markus Hegland, Ole M. Nielsen, Stephen Roberts,
+%      Peter E. Strazdins, Irfan Altas, Tatiana Semenova and Timothy Hancock.
+%      Accepted for the PDDM-2001 Workshop, San Francisco, April 2001.
+%
+%\item {\it A Toolbox Approach to Flexible and Efficient Data Mining}.
+%      Ole M. Nielsen, Peter Christen, Markus Hegland, Tatiana Semenova
+%      and Timothy Hancock.
+%      Accepted for the PAKDD-2001 Conference, Hong Kong, April 2001.
+%
+
+%\item {\it DMTools - Open Source Software for Database Mining}.
+%      Peter Christen, Ole M. Nielsen, and Markus Hegland.
+%      Workshop on Database Support for KDD, 2002.
+%      http://www.informatik.uni-freiburg.de/~ml/ecmlpkdd/WS-Proceedings/w09/index.html
+
+
+%\item {\it Regionalization of daily stream flow for the
+%      conterminous Australia
+%      using wavelets and $k$-means analysis}.
+%      Christopher Zoppou, Ole M. Nielsen, and Lu Zhang.
+%      January 3, 2002
+%      Available at http://wwwmaths.anu.edu.au/research.reports/mrr/mrr02.003/abs.html
+%http://wwwmaths.anu.edu.au/research.reports/mrr/02/003/MRR02-003.pdf
+
+\item {\it Parallel Computing Techniques for High Performance
+	Probabilistic Record Linkage}.
+      Peter Christen, Markus Hegland, Stephen Roberts, Ole M Nielsen,
+      T. Churches, and K Lim.
+      Proceedings of the symposium on Health Data Linkage, 2002.
+
+%\item {\it High Performance Computing Techniques for Record Linkage}.
+%      Peter Christen, Justin Xi Zhou, Markus Hegland,
+%      Stephen Roberts, Ole M Nielsen, T. Churches, and K Lim.
+%      Proceedings of the Australian HEalth Outcomes Conference (AHOC-2002), 2002.
+
+%\item {\it MBS-PBS record linkage to examine quality of care in
+%      gastro-intestinal disease}.
+%      Ole M. Nielsen and Michael J. Fett.
+%      In preparation
+
+\item {\it Data Mining with Python}.
+      Ole M. Nielsen, Peter Christen, Markus Hegland and Tatiana Semenova,
+      Proceedings of the 9th International Python
+      Conference, Long Beach, California, March 2001.
+      Foretec Seminars, Inc
+
+%\item {\it High Dimensional Smoothing Based on Multilevel Analysis}
+%      Markus Hegland, Ole M. Nielsen and Zuowei Shen,
+%      Submitted to SIAM J. Scientific Computing, November 2000.
+
+
+      \item {\it Scalable Parallel Algorithms for Surface Fitting and Data Mining}.
+      Peter Christen, Markus Hegland, Ole M. Nielsen, Stephen
+      Roberts, Peter E. Strazdins and Irfan Altas,
+      Elsevier Journal of Parallel Computing,
+      special issue on {\it Aspects of Parallel Computing for Linear
+      Systems and Associated Problems}, September 2000.
+      %
+      %ALTERNATIVE: Peter Christen, Markus Hegland, Ole Nielsen,
+      %Stephen Roberts, Peter Strazdins, and Irfan Altas (2001).
+      %Scalable Parallel Algorithms for Surface Fitting and Data Mining.
+      %Parallel Computing. 27:941-961
+
+
+
+\item {\it Data Mining of Administrative Claims Data of Pathology Services}.
+      Simon Hawkins, Graham Williams, Rohan Baxter, Peter Christen,
+      Michael Fett, Markus Hegland, Fuchun Huang, Ole Nielsen, Tatiana
+      Semenova and Andrew Smith,
+      Thirty-Fourth Hawaii International Conference on
+      System Sciences (HICSS-34), January 2001.
+
+%\item {\it Scalable Parallel Algorithms for Predictive Modelling}.
+%      Peter Christen, Markus Hegland, Ole Nielsen, Stephen
+%      Roberts and Irfan Altas,
+%      Proceedings of the Data Mining 2000 Conference, Cambridge, UK,
+%      N. Ebecken and C.A. Brebbia, editors, in {\it Data Mining II},
+%      WIT Press, Southhampton Boston, 2000.
+
+%\item {\it Parallel Data Mining on a Beowulf Cluster}.
+%Peter Christen, Ole M. Nielsen, and Peter E. STrazdins.
+%Proceedings of the HPC Asia 2001 Conference, 2001
+
+
+\item  {\it Parallel Performance of Fast Wavelet Transforms}.
+Ole M{\o }ller Nielsen and Markus Hegland,
+International Journal of High Speed Computing, Vol. 11, No. 1 (2000) 55-74.
+World Scientific Publishing Company
+
+\item {\it High Dimensional Wavelet Smoothing, CTAC99 proceedings}.
+Ole Nielsen, Journal of the Australian Mathematical
+Society Series B - Applied Mathematics, June 2000
+
+\item  {\it Wavelet Analysis for Power System Transients}. Anthony Wayne Galli
+and Ole M{\o }ller Nielsen, IEEE Computer Applications in Power,
+Volume 12, Number 1, January 1999.
+
+%\item  {\it Wavelets in Scientific Computing},
+%Ole M{\o }ller Nielsen, PhD Dissertation,
+%Technical University of Denmark,
+%Department of Mathematical Modelling, 1998.
+%Available at {\tt www.imm.dtu.dk/\~{}omni/thesis.html}.
+
+
+%\item  {\it A Scalable Parallel 2D Wavelet Transform Algorithm}
+%Ole M{\o }ller Nielsen and Markus Hegland, Technical report, TR-CS-97-21,
+%Australian National University, 1997.
+
+%\item {\it Wavelets and the Nonlinear Schr{\"o}dinger Equation}
+%Vincent A. Barker and Ole M{\o}ller Nielsen.
+%Proceedings at Sixth International Colloquium on Numerical Analysis and Computer Science with Applications,
+%Plovdiv, Bulgaria, 1997.
+
+%\item  {\it Vector-Parallel Fast Wavelet Transforms} Ole M{\o}ller Nielsen,
+%Gavin Mercer, and Markus Hegland. Proceedings at Parallel Computing Workshop,
+%Australian National University, Canberra, Australia, 1997.
+
+%\item  {\it Fast {2D} Wavelet Transform of Circulant Matrices}
+%Ole M{\o }ller Nielsen, Technical report, IMM-REP-1997-8, Technical University of Denmark, 1997
+
+%\item  {\it DISCO - DIScrete and COntinuous Simulation in Turbo Pascal}, Ole
+%M{\o }ller Nielsen and Mette Olufsen, Masters Thesis (Unpublished),
+%Department of Computer Science, Roskilde University, Denmark, 1993.
+
+%\item  {\it Electron Diffusion in Silicium, A Mathematical Model} Ole M{\o}ller Nielsen, Mette Olufsen, Karen Birkelund, and
+%Jesper Voetmann, Text 231 A+B, IMFUFA, Roskilde University, Denmark, 1991
+%(In Danish).%
+
+%\item  {\it Automatic diagnosing in digital circuits}, Ole M{\o}ller Nielsen and Bj{\o }rn Christensen, Text 220, IMFUFA,
+%Roskilde University, Denmark, 1992 (In Danish).
+
+%\item  {\it RSA - A Cryptographic System},
+%Ole M{\o}ller Nielsen, Mette Olufsen, and Lars Frellesen, Text 187, IMFUFA,
+%Roskilde University, Denmark, 1990 (In Danish).
+\end{itemize}

@@ -1,0 +1,36 @@
+Learning Python for the risk modelling project
+----------------------------------------------
+	
+	
+1: Read Python Tutorial and work examples.
+   Numeric Python and friends.
+
+	
+2: Look at demo's from  	
+     WxPython for building GUI's  	  (Can be run from 'Start')
+     TKinter for building GUI's  	  (alternative)     
+     Visual Python for Animation  	  (Run through IDLE)
+     MayaVI for 3D visualisation  	  (Mayavi.exe under Program Files)    
+     WebWare or Albatros for WEB building (Not installed yet)
+     
+
+2: Make very simple GUIs with WxPython and TKinter.
+   Compare.
+
+
+3: Start working towards a design for the mesh generator.
+   A: Investigate existing solutions and tools
+   B: Discuss requirements with Chris and Steve 
+   C: 
+   
+
+4: Make Mesh generator GUI prototype
+
+5: Make Back end prototype (Computational aspects of grid generation)
+	
+       
+-----
+
+Ask Python questions to Ole as they arise
+    
+  

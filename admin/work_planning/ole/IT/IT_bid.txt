@@ -1,0 +1,37 @@
+
+
+IT requirements for IT bid (Pending on Chris, May...)
+
+
+Hardware:
+	High end PC for Duncan w Microsoft Natural Keyboard (Pro Win9x)
+	High end PC for Miriam/Chris
+	High end PC (for Linux) ?
+
+	Symmetric mouse (x2)
+	Wacom Pen partner digitizer
+
+
+Software:
+	CART 5.0 ($3000)
+	Fortran 95 compiler
+	Libranet Debian Distribution (saves Bandwidth) DONE
+	(Matlab Mapping Toolbox ?)
+	Additional (4) Matlab licenses (talk to Trevor Dhu)
+	1 per engineer, 1 for Duncan and 1 for Chris.
+	
+
+Courses:
+	Matlab course for Duncan
+	Python course for Duncan
+	Arcview/Arcinfo course for Ole
+	GIS course for Ole (?)
+
+
+Books:
+	Python Cookbook
+	Python essential guide
+	Debian Linux book
+	CVS administrators book (find one)
+	CART
+

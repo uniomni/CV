@@ -1,0 +1,336 @@
+
+June
+
+1 10:00-17:00 TRMA, FESA talk, budget, ANUGA papers, ANUGA opt
+2 9:00-15:45  Patong paper, plan ANUGA release, Tephra model, EMA 4 communities
+3 10:30-15:30 Ross, Flood options paper, ANUGA, FESA maps, IWL sem.
+4 9:30-17:00 Kristy extension, FESA talk, Horspool review,  release plan
+5 Rec leave + long weekend
+9 9:30-19:15 TRMA, FESA talk, MM PPR, AOGS 2009, ANUGA release, viewer, numpy
+10 9:30-17:30 NSW Jono, Miriam, New Inventors, ANUGA numpy, FESA talk
+11 9:30-18:15 Trent, New inventor's follow ups, Nariman, MM PPR
+12 6:15-17:45 Patong Paper, Miriam PPR, FESA talk, extreme management
+-
+15 FESA
+16 FESA
+17 FESA
+18 9:30-18:00 Catch up, Inverell council, Patong Paper, Ted, AIFDR meeting
+19 8:30-17:00 AuScope, Patong Paper, Numpy testing, WaterRIDE, Volcano
+-
+22 8:30-18:15 AusAID demo, cyclone, Team briefing, TRMA meeting, PPR, Ross
+23 9:45-17:15 AusAID training, Patong paper, PPR, Sandberg, TRMA
+24 9:30-17:15 PPR, Flood options paper, P Cummins, M Morse, Numpy-Numeric
+25 9:00-17:45 tornado, Numeric/numpy, flood paper, culverts, viewer SVN, Rudy
+26 Rec leave
+-
+29 8:45-18:45 Numpy-numeric, georisk lunch, GFI-ESRI, Amy, Macca, Ross
+30 10:00-17:30 Back merged numpy into trunk, Amy PPR, AusAID
+
+
+May
+
+1 The New Inventors
+-
+4 9:10-17:15 TRMA, Catch up, Patong animation in TRIM, TS interview
+5 9:00-20:15 velocity in culverts, Patong paper, Dental, BB viz, emails, PHII
+6 9:30-17:15 Flood options paper, BB, Patong paper, Leo, SS, Colin M, emails
+7 9:15-18:30 Travel doctor, Patong witness rep, BB, AIFDR briefing
+8 9:15-17:30 EMA IM meeting, AIFDR, review, Ph II maps
+-
+11 10:00-16:30 TRMA, ICT implementation plan, Titov review, blood test
+12 9:30-17:45 HPC implem plan, APS survey, sqrt opt test, cleanup
+13 10:30-16:30 AIFDR delay, Jane, Trev, HPC roles, office cleanup
+14 9:00-19:00 Travel doc, DCC demo, budget, inflow_bdry, Jane
+15 9:30-18:00 Rudy, Volcano modelling (Adele), AIFDR ICT, Numpy, Jane
+-
+18 10:00-19:00 TRMA, Leo, OEMD clusters, TAFI, BB anim, WA talk, proposals
+19 10:45-18:15 Storage, Gold Coast, Petar, ANU contracts, review, Nariman
+20 10:00-17:00 AIFDR/GA split, Review, Tephra Model, Leo, ESRI, adm
+21 14:30-17:15 Storm surge planning.
+22 Rec leave
+-
+25 9:30-17:00 TRMA, GEMD brief, Tephra, culverts, volume bug, Lynda, cairns
+26 10:00-18:15 ANUGA, WA report, Leharne, volume check, Kristy pp, adm
+27 8:45-17:15 Arrange WA trip, Centera trial, ANUGA opt, Rudy, EMA EC docs
+28 10:15-18:45 Viewer, WA trip, ANUGA opt, ICT QA&testing, True
+29 10:15-17:30 Georisk meeting, Dr app, NVIDA drivers, ANUGA opt
+-
+
+
+April
+
+1 10:00-18:45 New inventors, Culverts, CA, Drew, TRMA team, Bateman's Bay
+2 10:30-19:00 Jane, NCI reply, Ross, clearance, Nariman opt, Squid2, flowtest
+3 9:00-19:00 Trev, Nariman, Ph II, Numpy, Data to Drew
+-
+6 9:30-18:00 TRMA, shared caching, cleanup, Ross, Duncan, Nariman, Trev
+7 8:45-18:30 AIFDR briefing, Patong paper, Duncan, sqrt opt, Trevor 
+8 9:00-18:15 UTM prj, Isolde, sqrt opt, Flood options paper, AIFDR ICT 
+9 8:15-16:30 Data to Drew, Amanda, New Inventors, NZ review quote, wrapup
+- Easter Break
+17 8:45-17:00 Catch up, Nariman, clearance, AusAID
+-
+20 8:30-18:30 BoM ATWS Science Meeting, New inventors, AIFDR
+21 10:00-16:00 TRMA, AIFDR ICT, flood modelling option paper
+22 9:30-16:00 Car, clearance, Ross, New invent, AIFDR ICT, OGRE Viewer, Steve
+23 9:30 18:15 New inventors, AIFDR, Meeting with Paul, Cairns demo
+24 9:30  AIFDR, RFC, New Inventors, Patong paper
+25 (Saturday): New Inventors
+-
+28 9:30-18:30 TRMA, AIFDR, adm
+29 10:00-17:15 AIFDR costs, Jane, move req, FESA revision, Patong Paper, prep
+30 The New Inventors
+
+
+March
+
+2 8:30-19:30 GFI visit hw testing, AusAID ICT meeting
+3 8:30-19:30 AIFDR, Phase II, Ross, Jane
+4 11:00-18:15 AIFDR, WA dept water, mac test, EQRM, flops.c, Patong test
+5 9:30-17:45 AIFDR, Patong to Drew, Petar, Kristy 
+6 6:45-17:30 AIFDR, Leharne SS, Georisk planning, World Bank
+- Canberra day long weekend
+10 9:00-19:45 Ross, Ph II, Squid2, Nonstd meridian, Tony Pack, Jane+Trev
+11 8:30-18:00 Fitting bug, Ross, Kristy, Drew, Tony Pack, Gordon
+12 9:30-17:45 Inflow test, Anita, NCI minute
+13 9:30-18:30 NCI minute, prj meeting, bdry bug, Robbo, Patong paper
+14 9:30-18:30 bits and pieces, Patong
+-
+16 9:00-18:00 Trev, TRMA, zones, Patong good, Jane
+17 9:00-18:30 Fitting bug, Petar
+18 9:00-18:00 Fitting bug, Ross, AIDFR webcam, ANUGA maintenance.
+19 9:00-18:30 Patong, Kristy, Ross, Jane
+20 REC + a bit of adm
+-
+23 9:15-19:00 TRMA, AIDRF ICT, Nariman, MUX direction bug, Patong, Nils
+24 10:30-18:00 Bug meeting, Chris P, AIFDR ICT, central meridian, Jane
+25 Wollongong
+26 Wollongong
+27 Wollongong  
+-
+30 9:30-19:00 TRMA meeting, IT-auditor, AIDFR overview, 
+31 9:45-18:15 CEO forum, aquittal, PhII, Pru, adm 
+
+February
+
+2 10:30-18:45 FESA, Ross, flyer, Trev, patong, prep style demo, Indo offer.
+3 8:30-19:00 style demo, Kristy, AIDRF ICT, patong
+4 9:15-18:30 Conventions, Myall, Patong meeting, AIDRF, .....
+5 10:30-17:00 James Goff + Dale D. H., Patong, Kristy, Richard, AIDRF ICT
+6 Rec Leave
+-
+9 9:15-17:30 Leharne, Ph II, Patong, Ross, Viewer, EMQ, Jane
+10 9:30-17:30 Leharne, Kristy, Ross, Jane, Spiro, TS clearance
+11 9:30-18:00 get_extent, Tim Moore (putty), Ross, TS clearance
+12 9:15-16:30 TS Cl, Patong, Tim C, Andrew Cross, Ross, Kristy, Jono SS
+13 9:15-19:00 Bushfire volunteers, Patong, AIDRF plan, Leo Kliger
+-
+16-20: Flood conference, Albury
+-
+23 9:30-18:30 Ph II, Ausaid
+24 8:30-19:30 ForwardIT, Ausaid, Leo
+25 9:30-18:00 Computer refresh, AIFDR
+26 8:30-17:50 NSW SES, Ross, AIFDR CV, Patong 
+27 10:30-19:00 Leo, AIFDR
+-
+
+
+
+	
+January
+
+5 10:00-18:30 Dunc, Kristy, Stuart Ross, Jane (SS planning)
+6 9:00-18:00 Adm, John Wilford, Building poly's, Rudy, planning (SS, Albury)
+7 10:00-17:00 cyclone, Culverts volumetric testing, flood survey
+8 10:15-17:45 Linux paper, Culverts, planning
+9 9:30-18:30 Culvert work, Patong buildings, Ross, Tsunami handover to me
+-
+12 10:15-18:15 Stephen Roberts, Leharne, Patong, Risk priorities, SS project
+13 10:00-18:30 Culvert volumetric, Sam, Kristy, Jono NCI, SS project, Trev
+14 9:45-18:15 Streeting, installer, Ross, Kristy, mid term PPR, time_limit
+15 9:30-18:30 EMA, AIDRF, ANUGA
+16 9:15-18:15 Leharne, Jono, AIDRF, Patong, ANU, mails
+-
+19 7:00-18:00 ANUGA fit, LF, Web dv, PL's, viewer mov, rem rang, Patong, Ross 
+20 9:45-19:15 Phase II, Ausgeo news review, PPRs (MM, AP), Patong, Leo
+21 9:30-17:45 PL work, Collab mails, Donnell, Kristy, Gary, Patong
+22 9:00-18:00 Patong, caching __call__, Trent, SS minute, Leo
+23 10:00-15:30 david, senate est, GFI, towradgi, patong, leo, kristy
+- Long weekend
+28 8:30-18:30 GIS MAC, Ross, Trev, AusAID video conf, Georisk meet, WA plan
+29 10:00-17:30 FESA video conf, Ross, Patong!, Fit debug,  
+30 10:15-18:30 Fit debug, Patong, PhII, Kristy code, Ross, Fesa minutes
+-
+
+	
+	
+	
+December
+1 rec leave
+2 9:00-Linux meeting, Greg scott, adm, leave for BOM
+3 BOM training workshop
+4 9:15-17:45 BoM follow through, Miriam, EUA draft, John Jakeman, storm surge 
+5 9:30-18:00 GEMD XMAS
+-
+8 9:45-17:30  Ross, Landslide paper review, social vuln, EUA, Prj restruc
+9 10:00-19:00 Leharne recommend, GA walks, flyer, Robbo, Culverts
+10 9:30-18:30 Petar Milevski
+11 9:30-17:30 Culverts, River2D integr, Soc vuln, Storm surge + hydro (Jane)
+12 9:30-22:00 GA AGM & XMAS
+-
+15 10:00-20:30 Miriam (build. vuln), Ross, Culv, review, ANUGA flyer, Leo...
+16 14:00-18:30 Michael Potter (ATWS software), River2D, IT 
+17 10:30-18:30 River2D, Kristy bound pert & fit test, Jane, Lloyd, Award Minute
+18 Petar Milevski (Wollongong)
+19 Do
+-
+22 10:00-18:00 Duncan, Trent, Award Minute, Michael Potter, Linux paper, emails
+23 9:00-17:30 FESA Report, PAGASA paper, culverts, Linux paper 
+24 11:00-16:30 Linux paper, Nariman, Culverts, NetCDF, mails, ForwardIT
+25 XMAS break ...
+
+	
+November
+
+- rec leave
+5 8:30-18:30 Ross, Niran, Nariman, Ausaid, Amy PSLP cancel, Linux paper
+6 10:00-18:30 Leo, Itanium 64, Phase II, boxing day val, Amy PSLP changes 
+7 9:30-16:00 Linux meetings, project meeting, ANUSF timings
+-
+10 9:30-20:15 Kristy, Amy, Linux paper, Pilot progress report, Leo, AIAF doc
+11 9:30-18:30 Mux debugging, Linux paper, Ross, adm
+12 9:30-18:30 Linux paper, Trevor, Jane, Ross, NCI pilot
+13 10:30-17:30 NCI progr rep, Fix instab in Rudy's script, Linux paper, AIAF
+14 9:30-16:00 NetCDF or HDF5 discussions, Linux paper, Rudy's script, Beer
+-
+17 10:15-17:30 Linux outputs, project restruture, Ross, Kristy
+18 10:00-21:30 Platform error, Ross, Trev + Jane, Linux report, Leo
+19 9:30-18:00 Ted Rigby, Ross, Mux -> index file
+20 11:00-16:30 Kristy prog, Jane DGAL, Linux, Ross
+21 9:30-18:00 Trev, Jane dry run, Andrew Crss, Career pl, Patong, Rockingham
+-
+24 9:45-17:45 Rocknghm wav, John S, starttime, Team brief, prj meeting, Petar
+25 9:45-17:30 Planning, Storm surge, Horst ref, Jane Dry run, Patong paper
+26 9:15-18:30 Jane Dgal, BoM talk, culvert debug, Acceptance test
+27 9:30-16:45 Lloyd chat, Culvert work, Debbie Jackson, cyclone testing, oracle
+28 9:30-14:30 AGIMO meeting, BoM planning, Project meeting
+-
+
+
+
+October
+
+20 9:30-18:00 Catch up, Stephen, Caching
+21 9:45-18:30 Caching
+22 8:45-18:15 Caching, Amy (PSLP), Jane
+23 8:30-16:30 ANUGA, network concept, emails + adm, Beowulf RFC, NCI pilot
+24 8:30-18:00 Carmel, SHRIMP, optimised interpolation, culvert, Ross
+-
+27 9:45-18:30 Travel follow up, CCOP report, team briefing, interpolation, Ross
+28 15:00-18:30 Ross, Rainfall beyond gauge data
+29 9:30-18:15 Verified and documented pypar & openmpi, meetings, Jane
+30 9:45-18:30 Fix broken test (changeset:5847), Leo Kliger cluster upgrade
+31 9:00-18:00 NCI pilot, urs2sts win bug, WPI, Leo, Patong paper meeting
+-
+	
+	
+September
+
+1 9:30-18:30 PL briefing, energy in flows, Fiona - science student demo
+2 9:15-18:45 Budget, 3D modelling meeting, Miriam, Super sem, Rec to duty
+3 9:15-18:00 Jane/Trev, team building minute, energy, ross wilson plan
+4 10:15-18:15 run-time flow_through_cross_section, FESA events, NCI
+5 9:15-17:00 Projections w. Kristy, Energy, Ph II planning, TRIM
+-
+8 9:15-18:00 TRMA meeting, eResearch paper review, Shrimp OSS, STS, ANUGA  
+9 9:45-18:30 Adm, Georisk meeting, Kristy, Workshop talk
+10 9:30-18:00 Workshop talk, John S.
+11 9:15-17:00 adm, NCI, Shannon's farewell
+12 9:30-18:00 A. Cross (OSS), Kriton, Macca, facilit, Rachel, Model activity
+-
+15 9:30-18:00 Ross, Rudy, Plan workshop
+16 9:00-18:00 ANUGA workshop
+17 8:30-19:00 ANUGA workshop
+18 9:30-18:15 Phil McFadden farwl, GNS, Ross, Kristy, ANUSF appl, ANUGA notes 
+19 9:30-18:00 Beowulf, Power outage
+-
+22 10:00-18:30 Linux & Beowulf
+23 9:00-17:00 TRMA development day Hill-station
+24 9:00-16:30 Career path task force, ISB Bombora meeting + docs 
+25 9:30-19:00     Beowulf RFC, talk, mad rush
+26 10:00-18:30  Ross, KML scripts to David, talk, bug fixes & wrap up
+-
+Overseas Travel (Thailand, Denmark)
+
+	
+August
+
+1 10:30-15:00 Trevor, URS test, Workforce planning, Amy
+-
+4 10:30-18:00 Cleanup, NCI, Frederic, Paper meeting, Pacific tsunami KML
+5 10:30-18:30 Kristy, ASI/ForwardIT, urs2sts, Richard, Bob, Poster, BMRC 
+6 10:00-19:00 Trev planning, Emil Okale, Bob candidate, urs2sts problems,...
+7 10:00-17:30 ASUS EEE, urs2sts done, Zhong Ping, Adm
+8 9:30-15:00 XML bug, Berriman, NCI meeting invite, mail to Lex, MISG meeting
+-
+11 9:45-18:30 Acting PL, ANUGA release, adm
+12 9:45-18:30 NCI spiel, Software dev, Budget variances, PPR, adm
+13 9:45-18:45 ForwardIT, NCI day, role profile, adm, Kristy
+14 9:30-18:30 default_boundary, NCI org, FMA rerun, adm galore
+15 9:15-18:30 maxima, nonstandard projections, convergence, support
+-
+18 9:45-18:30 PL's, adm, Ross Wilson interview, File_boundary problem
+19 9:45-18:15 NCI meetings, contractor adm
+20 9:45-19:00 Field_b debg, Pln w Jane&Trevor, Richard, Career pl, NCI minute
+21 9:45-18:15 CPSU, FESA dryrun, adm, Fixed Field_b bug, Miriam, Jane
+22 9:30-16:00 Miriam travel, Kristy, adm, Paper meeting, flutter
+-
+25 9:45-18:15 PL's, NCI minute, ATWS science talk, mail to CCOP, MISG report
+26 9:15-18:00 Miriam (travel + ANUGA workshop), BoM talk, CCOP reply, adm
+27 5:40-19:30 BoM ATWS Science Meeting
+28 8:30-18:00 Budget variances, Boxing Day validation, Landslide proposal
+29 9:15-18:30 Career pl, prop, NCI mints, Jumpstart aw, Hinwood, ted, pypar
+-
+	
+		
+July
+
+1 9:45-18:15 Output poster, Leharne, Amy, PPRs
+2 9:30-17:30 Boxing day slides, Ian Dinham, PPRs, planning, boxing day, Aaron
+3 9:45-16:30 Emails, TRAC tickets, seminar, ASIG, CIPMA (Rachel)
+4 9:30-18:00 John Jakeman, Permanence panel, PPR w Trevor
+-
+7 9:30-18:00 John Jakeman (Mux reader), Duncan, emails
+8 9:45-18:00 Adm, Miriam, Poster, David R, TRMA celebration dinner
+9 9:45-18:00 Jane, Trev catchup, Phil McFadden, Nariman & MUX reader
+10 11:30-18:00 Amy PSLP planning, MUX, Chandrama, Miriam, FMA, Tony, Nariman
+11 9:30-18:30 Adm, NCI lunch, PPRs
+-
+14 9:30-18:30 TRMA meet, PPRs, Amy, Phil, Duncan career, MM, Risk figure
+15 10:00-19:00 Nils Goseberg + Rudy, Amy PPR, Validation paper, Miriam PPR
+16 10:00-18:30 Duncan PPR signoff, Amy PPR, Trev, ANUGA release prep 
+17 14:00-19:00 Work on set_values, reading Validation book
+18 10:00-18:00 Nariman, Kristy, set_values, URS2STS
+-
+21 9:30-18:30 urs2sts permutation, Nariman, Tsunami storyboard, EMA planning
+22 10:30-18:30 Boxing day validation, Nariman, Christiana, EMA planning, Perth
+23 10:30-18:00 URS2STS, Kristy: STS boundary for Perth
+24 9:45-17:45 forcing term exceptions, ANUGA manual, Miriam PPR, FMA talk
+25 12:00-17:00 FMA talk  
+-
+28 12:00-18:00 Trevor, urs2sts
+29 10:30-19:30 Plan FMA visit, Rudy
+30 9:30-18:00 FMA visit - culvert diagnostics
+31 8:30-18:00 Tornado, plan NCI visit, Stephen Lloyd, urs2sts testing
+
+
+
+ 
+
+
+
+
+
+
+
+ 

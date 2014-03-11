@@ -1,0 +1,151 @@
+January
+
+4 9:00-17:00 Kristy, PostGIS
+5 9:00-17:00 Kristy, PostGIS loader, emails to OpenGEO
+6 9:15-18:45 NMI, shp->PostGIS, requiremnts, OpenGEO, arr S.gill visit, ANUGA
+7 9:45-18:00 Kristy, AIM, ANUGA viewer + release, internet problems!, AIM
+8 10:00-18:45 AIM testing, SVNTRAC backup, AIFDR data struct
+-
+11 9:30-17:15 AIM w Adele, SGILL org, ANUGA talk, sysadm
+12 9:30-18:00 Fall3d 32vs64, ANU repo backup, Trev, CVGHM plan, AIM manual
+13 
+
+
+
+December
+
+1 Rec Leave
+2 14:00-18:30 Web feedback, Kristy, ANUGA viewer, Cluster, arr S.gill visit
+3 10:00-18:30 Georisk meeting, Indo visa, Kristy&tephra, viewer, Nariman
+4 9:00-18:00 Cluster, GA mission, Indo travel, GEM XMAS, PUG, PostGIS install
+-
+7 8:45-19:00 PosGIS inst, World Bank talk, Travel arr, Viewer, ANUGA classroom
+8 8:45-17:00 Viewer, PostGIS, Nariman+Miriam, Stuart Gill - World Bank 
+9 8:45-18:15 WB follow up, Jono, ANUGA projects, Cleanup, Viewer, QGIS/PostGIS
+10 10:15-18:00 WB, ANUGA edu, disk-clean, QGIS/PostGIS netw, Manila catchm
+11 GA AGM
+-
+14 9:00-17:30 ANUGA viewer anon access, ANUGA API contract, Arc+PostGIS, SQL
+15 10:00-18:15 ANUGA contracts & management, shapefile_loader, Arc+PostGIS, Jane
+16 12:00-19:00 ANUGA API contract, Arc+Postgis (edit), Jono+alamba, Jane
+17 16:00-19:00 ANUGA API contract, diskclean, viewer+sharkbay
+18 10:30-16:15 ANUGA API cntrct, Michael M, WB talk, Volcano planning, PostGIS
+-
+21 10:15-18:30 Mail to Paul Ramsey, Miriam, QGIS, Fall3d -> AIM
+22 9:00-18:30 RIAG panning, Leharne, AIM volcanic ash modelling, pypar, email
+23 11:30-18:15 Travel doc, Tephra -> AIM refactoring
+24 9:30-15:45 AIM development and testing.
+-
+
+
+November
+
+2 9:30-18:00 ANUGA planning, AIFDR adm, alamba NAS, mails, tephra TRAC 
+3 PHOL
+4 8:30-17:30 Alamba NAS, Exposure data, RICS development application 
+5 9:30-19:00 Cluster, SVN/TRAC, Hamish, Trevor
+6 9:30-15:00 Cluster, planning, Trevor, Trish funeral
+-
+9 9:30-18:30 NICTA inv, Alexei, freeNX, Jono, Narimn, IO Hz, Tephra, TRAC
+10 12:30-19:00 Keith Porter, Work program (TRAC), NAS, crontab
+11 9:30-18:30 Cluster, Nariman, Alexei, Jono, Rudy, Wordpress
+12 10:00-18:30 Wordpress, cleanup, seminar, alamba cluster
+13 10:30-18:15 Cluster, Rudy, Adele talk, Cluster Sign-off
+-
+15 8:15-18:00 NEDA visit, Hamish, POSTGIS
+16 10:00-18:30 NEDA, NICTA meeting planning
+17 10:30-16:30 NEDA, Wordpress, NICTA
+18 9:15-18:15 NTP, Wordpress, NICTA proposal, cluster stuff-up (DHCP)
+19 9:30-18:00 Cluster NTP OK, Nariman+Leharne
+-
+23 9:30-18:30 NEXIS workshop, ANUGA_viewer TRAC, Rudy, Wordpress, Patong
+24 10:30-18:00 NEXIS workshop, Patong validation, Jane, workplan 
+25 9:30-18:30 AusAID vidconf
+26 9:30-18:15 IO Tsunami Hazmap online
+27 9:30-17:00 EQRM/GEM, Viewer, Nearmap, Adele - cluster and svn, PostGIS
+-
+30 Rec Leave
+
+October
+1 -> 21 Jakarta
+22 10:45-19:00 Catch up. AIFDR sites, IO Hzmap, plan
+23 9:00-16:30 AIFDR Svn, grad filming, Ross, Hamish, S Lloyd farewell
+-
+26 10:00-17:30 Travel report, aquittal, AIFDR svn, NEXIS (mark), GEM (trevor)
+27 13:30-19:30 OpenGIS, IOHzmap, TRAC, nariman, create_project.py (SVN+TRAC)
+28 15:00-19:15 David, ANUGA wiki (Ross), SVN/TRAC admin, merapi
+29 9:30-18:45 AIDFR tasks, Lib IP addr, OpenStreetMap, IM decis doc, Nariman 
+30 9:30-19:00 Exposure investig, Fall3d-SVN, Nariman, Trent
+-
+
+September
+
+1 9:15-19:00 Stephen Roberts, APOLLO
+2 9:30-18:45 Adele, Patong Paper, Ross, Nariman
+3 11:00-19:00 APOLLO, Patong Paper, ANUGA, Rudy, KML hzmap (Ross), Ted
+4 8:00-17:30 Patong paper, ANUGA tix, travel arr, Viewer feedback, APOLLO eval
+-
+7 9:30-19:15 Travel arr, Installer, meetings, IO GE hazmap, culverts
+8 9:15-19:15 Travel arr, Stephen, Fall3D installer, 360 Dunc, tickets
+9 9:30-17:45 Allied Pickf, patong paper, tickets, milevski, nariman
+10 15:00-19:15 Viewer, Nariman, Adele, Flood paper, UNDP GIS, Phil
+11 9:45-17:30 Flood paper, QGIS, Fall3D scripts, Patong Papeor, IOT KML
+-
+REC LEAVE
+-
+21 8:45-17:30 Travel prep, Patong paper, cleanup
+22 9:15-18:30 Steve Roberts, Flood paper, Patong paper
+23 9:15-17:30 Tsunami talk, M&B, clean out, Patong Paper, Fall3d scripts
+24 9:00-18:45 Patong Paper to John, Peter Kelly, Viewer, Trav prep, IOT KML
+25 9:30-19:00 G Boyes+C French, AusAID AIFDR workprgr, Travel, Viewer
+-
+28 9:00-18:45 Security briefing, Boyes+French, FALL3D, Travel prep
+29 -> 30 Jakarta
+
+
+August
+
+2 - 17 Design Workshop, Bangkok + AOGS 2009 Singapore
+18 10:45-19:00 Steve Roberts, Nariman, Jane&Margaret, John
+19 AusAID
+20 9:45-17:30 Kristy (images), Adele, Jane, Aquittal, John, viewer
+21 10:00-18:30 Patong Paper, Mailbox, Jane 
+-
+24 9:15-18:15 Patong images, Ted example, viewer feedback, Rudy, S.S, adm
+25 9:30-18:00 Phivolcs+CVGHM, SS, Viewer, Installer, patong paper
+26 10:15-17:30 Petar (0.5h), APOLLO, email, ANUGA tickets
+27 9:00-16:30 Phivolcs+CVGHM, Richard (patong paper), APOLLO installation
+28 REC LEAVE
+-
+31 9:45-18:30 APOLLO fixes with Adele
+
+July
+
+1 8:30-16:45  DFAT security briefing
+2 10:00-20:00 emails, Ross, Nariman, Jane
+3 9:30-16:00 Kristy, PPR signoff, StormSurge meeting, ANUGA release
+-
+6 9:00-18:45 EMA report, hazard tool, Leharne PPR, prj meeting, flood paper
+7 9:30-17:00 AusAID financial training
+8 9:30-19:15 New ANUGA contracts, Jane Merit, TD, Viewer, Installer, adm adm
+9 14:45-18:15 IT, Nariman, ANUGA training, Arrange Bangkok/Singapore trip 
+10 9:30-19:00 AusAID, AIFDR meet, Adele IT, Viewer tests, travel, Jane merit
+-
+13 10:00-19:00 Travel arrangements, ISB cyclone, viewer, licensing, flood paper
+14 10:00-17:30 Stephen Ring, Milevski, Worldwind, travel, Leharne, review
+15 8:30-17:00 AusAID defensive driving
+16 8:30-17:00 AusAID 4WD
+17 9:30-17:00 AusAID presentation skills
+-
+20 9:00-17:30 Thai Visa, AusAID, emails, Nariman, ANUGA + viewer release.
+21 PCS
+22 PCS
+23 PCS
+24 Rec leave
+-
+27 9:30-19:30 Miriam, Nariman, catch up, travel prep
+28 9:15-19:30 Laptop (ANUGA), Travel prp, Coiffs Harb, Mons, Nariman, AIFDR, GE
+29 AusAID
+30 AusAID
+31 AusAID
+

@@ -1,0 +1,29 @@
+My Ph.D.\ dissertation entitled ''Wavelets in Scientific Computing'' 
+was defended May 13 1998 and concerns wavelet analysis, a
+relatively new mathematical discipline that has already been widely accepted
+in signal processing, e.g.\ for purposes such as image
+compression. The crucial feature of wavelets is their ability to represent
+different parts of a function at different scales. This leads to sparse
+representations of piecewise smooth functions with local oscillations,
+singularities or jumps in one of its derivatives.
+ 
+The objective has been to exploit this property in studying algorithms for
+solving partial differential equations. These are applied to the model
+problem of light pulse propagation in optical fibers described by the
+nonlinear Schr{\"o}dinger equation. I have concentrated on two different
+approaches for solving this problem. The first is a Galerkin method, where
+the unknown complex field is expanded in a wavelet basis. The linear
+differential operator is applied in the space of wavelet coefficients and
+the nonlinearity is treated via transformations to and from physical space.
+The second approach is based on finite differences on an irregular grid
+which is generated from the wavelet coefficients of the complex field. In
+this approach both linear and nonlinear parts are treated in the physical
+space.
+
+An important aspect of this project has been efficient parallel
+implementations of the Fast Wavelet Transform. Much of this work has been
+done in collaboration with Professor Markus Hegland, Computer Science
+Laboratory, RSISE, Australian National University.
+%My thesis advisors were Professor Vincent Allan Barker, Professor Per
+%Christian Hansen, and Professor Mads Peter S{\o}rensen all affiliated to
+%Department of Mathematical Modelling, Technical University, Denmark.

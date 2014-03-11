@@ -1,0 +1,70 @@
+UNIX
+
+  Trevor Dhu: Unix questions
+  Phil Cummins: Linux, cygwin assistance + Beowulf
+  Ed Chudyk: Advice about linux for field computer and beowulf.
+  
+  
+Software assistance and training:
+ David Robinson: Help facilitating merging two versions of 
+ hazard models written in Matlab.
+ Spiro: Compution of bearings and distances on Earth 
+        Seismic plots and animation
+
+ Provided CVS access and training to: 
+      Chris, Duncan, Anita, Trevor Dhu, Stephen, Spiro
+
+
+
+ Provided Python introduction and training to 
+    Alice O'Connor
+    Trevor Dhu: Nuclear monitoring scripting task
+    Duncan 	
+
+ Latex:
+    David Robinson
+    Anita Dwyer  
+  
+  
+  	
+	
+Corporate Software:
+   Sesimic monitor 16/7/3 and
+   Seismic near-real-time player 22/7/3 (Dotpoint 23/7/3)
+
+  Beowulf project 
+    Setup demonstration of Beowulf cluster and 
+   got parallel codes running (Dotpoint 16/5/3).
+   Participated in Beowulf bid $64,000.
+   Gave presentation to GA 2/6/3
+   	
+Publications
+
+  Aus Geo Article on decision trees (with Anita Dwyer and Matt Hayne)
+  Vulnerability Report  
+  Streamflow
+  
+Presentations  
+  Gave presentation about CVS.  (future)  
+  Beowulf + Visual tools and directions: 22/5/3
+  Beowulf presentation to division: 2 June 2003
+  DCS seminar: 18/6/2003
+  ICIAM 2003: Predictive Modelling with sparse grids    
+  
+  
+
+Modelling:
+  Predictive modelling of vulnerability study.
+  
+  
+
+Conferences and Meetings
+
+  ICIAM 2003, July 2003  
+  EMA meeting April 2003
+  Glass Earth Workshop 29-30 July 2003
+
+  
+  
+  
+  

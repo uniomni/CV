@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.11.3)  6 MAR 2014 21:23
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.11.3)  11 MAR 2014 20:33
 entering extended mode
  %&-line parsing enabled.
 **career_history.tex
@@ -100,6 +100,12 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 45.
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
 Missing character: There is no œ in font ptmr7t!
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
@@ -136,7 +142,12 @@ LaTeX Font Info:    Try loading font information for OT1+pcr on input line 119.
 
  (/usr/share/texmf-texlive/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-) [4] (./cv_publ.sub
+)
+Underfull \hbox (badness 10000) in paragraph at lines 121--128
+
+ []
+
+[4] (./cv_publ.sub
 Overfull \hbox (4.39409pt too wide) in paragraph at lines 62--68
 []\OT1/ptm/m/it/10.95 Hydrodynamic mod-elling of coastal in-un-da-tion\OT1/ptm/
 m/n/10.95 . Nielsen, O., S. Roberts, D. Gray, A. McPher-
@@ -156,13 +167,13 @@ Here is how much of TeX's memory you used:
  4283 multiletter control sequences out of 15000+50000
  11789 words of font info for 31 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 25i,4n,19p,474b,212s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 25i,4n,19p,989b,217s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf-texlive/fonts/enc/dvips/base/8r
 .enc}</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
 share/texmf-texlive/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texmf-texliv
 e/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/ti
 mes/utmr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on career_history.pdf (6 pages, 348383 bytes).
+Output written on career_history.pdf (6 pages, 350807 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
